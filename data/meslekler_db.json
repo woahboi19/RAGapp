@@ -1,0 +1,1302 @@
+{
+    "meslek_su_tesisatcs": {
+        "isim": "Su Tesisatçısı",
+        "aciklama": "Günlük İsimler: Tesisatçı, Su Ustası\nÇözdüğü Sorunlar:\n- Lavabo, küvet veya klozet giderlerinden su akmaması, tıkanması.\n- Duvarlardaki veya borulardaki gizli su sızıntıları.\n- Kombi veya sıcak su bağlantılarında yaşanan basınç/ısınma sorunları."
+    },
+    "meslek_elektrikci": {
+        "isim": "Elektrikçi",
+        "aciklama": "Günlük İsimler: Elektrikçi, Elektrik Ustas\nÇözdüğü Sorunlar:\n- Ana sigorta atmış, evde hiç ışık yok.\n- Yeni aldığımız kombinin elektriğini takmam gerekiyor.\n- Salon prizlerinden sürekli kıvılcım gelmesi tehlikeli."
+    },
+    "meslek_veteriner_hekim": {
+        "isim": "Veteriner Hekim",
+        "aciklama": "Günlük İsimler: Veteriner, Hayvan Doktoru\nÇözdüğü Sorunlar:\n- Kedim sabahtan beri hiçbir şey yemiyor ve sürekli kusuyor.\n- Köpeğimin aşı vakti geldi ama şu an çok halsiz.\n- Kuşumun kanadı kapıya sıkıştı, acı çekiyor."
+    },
+    "meslek_kardiyoloji_uzman": {
+        "isim": "Kardiyoloji Uzmanı",
+        "aciklama": "Günlük İsimler: Kardiyolog, Kalp Hastalıkları Uzmanı\nÇözdüğü Sorunlar:\n- Spor yaparken ya da dinlenirken göğsümde baskı hissediyorum, kalp krizi mi yaşıyorum?\n- Kalbim düzensiz atıyor, \"vuruş atlıyor\" gibi bir ritim bozukluğu yaşıyorum.\n- Sürekli baş dönmesi, bayılma hissi yaşıyorum ve kan basıncı yüksek çıkıyor."
+    },
+    "meslek_goz_doktoru": {
+        "isim": "Göz Doktoru",
+        "aciklama": "Günlük İsimler: Oftalmolog, Göz Doktoru, Göz Uzmanı\nÇözdüğü Sorunlar:\n- Sabah kalktığımda gözlerim yanıyor ve sürekli bir batma hissediyorum.\n- Yakınlarda okurken gözlerim aniden bulanıklaşıyor ve sürekli gözlük değiştirmem gerekiyor.\n- Gözlerimde kızarıklık ve akıntı var, geçmeyen bir tahriş oluştu."
+    },
+    "meslek_dis_hekimi": {
+        "isim": "Diş Hekimi",
+        "aciklama": "Günlük İsimler: Dişçi, Diş Hekimi\nÇözdüğü Sorunlar:\n- Bir dişimin deli gibi ağrıyor, ne yapmalıyım?\n- Dişlerim aralık kalmış, estetik bir çözüm lazım.\n- Diş etlerim sürekli kanıyor ve sararmışlar."
+    },
+    "meslek_bosanma_avukat": {
+        "isim": "Boşanma Avukatı",
+        "aciklama": "Günlük İsimler: Aile Hukuku Avukatı, Boşanma Avukatı\nÇözdüğü Sorunlar:\n- Eşime, ortak aldığımız evdeki payımızı ve mal varlıklarımızın nasıl bölüneceğini bilmiyoruz.\n- Çocuklarla görüşme sıklığımız konusunda anlaşamıyoruz, haklarımı korumam gerekiyor.\n- Boşanma sürecinde geçimin zaruri masrafları (nafaka) ne olacağı konusunda bir netlik arıyorum."
+    },
+    "meslek_is_hukuku_avukat": {
+        "isim": "İş Hukuku Avukatı",
+        "aciklama": "Günlük İsimler: Çalışma Hukuku Avukatı, İş Hukuku Avukatı\nÇözdüğü Sorunlar:\n- İş yerinde yaşadığım ayrımcılık veya mobbing (psikolojik taciz) durumunu nasıl kanıtlarım?\n- İşten çıkarıldım ama yasal hak ettiğim kıdem ve ihbar tazminatını alamıyorum.\n- İş sözleşmemde yer alan bir madde benim haklarımı kısıtlıyor, bu geçerli mi?"
+    },
+    "meslek_ceza_avukat": {
+        "isim": "Ceza Avukatı",
+        "aciklama": "Günlük İsimler: Avukat, Savunma Avukatı\nÇözdüğü Sorunlar:\n- Hakkımda bir suçlama var ama kanıtlar eksik veya hatalı.\n- Tutuklanmak üzereyim ve yasal haklarımı bilmiyorum.\n- Birisi benim hakkımda yalan beyanlarla dava açtı ve beni suçlu gösteriyor."
+    },
+    "meslek_siber_guvenlik_uzman": {
+        "isim": "Siber Güvenlik Uzmanı",
+        "aciklama": "Günlük İsimler: BT Güvenlik Uzmanı, Bilgi Güvenliği Danışmanı\nÇözdüğü Sorunlar:\n- İş yerindeki bilgisayara yanlışlıkla yüklediğimiz bir dosyanın tüm ağımızı ele geçiriyor olması.\n- Geldiğimiz bir e-postadaki linke tıklayarak şifrelerimizi ve kişisel bilgilerimizi çalmamız.\n- Uzaktan çalıştığımız bilgisayarımızın çalınması veya kaybolması durumunda verilerimizin sızması."
+    },
+    "meslek_yazlm_gelistirici": {
+        "isim": "Yazılım Geliştirici",
+        "aciklama": "Günlük İsimler: Yazılımcı, Programcı\nÇözdüğü Sorunlar:\n- Şirketin satış sitesinin mobil cihazlarda açılmaması veya düzgün çalışmaması.\n- Verilerin manuel olarak birden fazla elektronik tabloya girilmesi ve karışması.\n- Mevcut iki farklı sistemin (örneğin, envanter ve muhasebe) birbiriyle konuşmaması."
+    },
+    "meslek_sistem_yoneticisi": {
+        "isim": "Sistem Yöneticisi",
+        "aciklama": "Günlük İsimler: IT Uzmanı, Ağ Yöneticisi, Teknik Destek\nÇözdüğü Sorunlar:\n- Ofis interneti birden durdu, kimse ağa bağlanamıyor.\n- Bir kullanıcının hesabına erişim verilmesi gerekiyor ama izinleri yanlış ayarlanmış.\n- Bir sunucudan kritik veriler çekilemedi, bir şeyler yanlış yedeklenmiş."
+    },
+    "meslek_diyetisyen": {
+        "isim": "Diyetisyen",
+        "aciklama": "Günlük İsimler: Beslenme Uzmanı, Diyetisyen\nÇözdüğü Sorunlar:\n- Kilo vermek istiyorum ama hangi gıdaları ne kadar yiyeceğimi bilemiyorum.\n- Diyabet hastasıyım, hangi yiyeceklerin kan şekerimi yükselteceğini öğrenmeliyim.\n- Sürekli şişkinlik yaşıyorum ve bağırsaklarıma iyi gelecek bir beslenme düzeni istiyorum."
+    },
+    "meslek_fizyoterapist": {
+        "isim": "Fizyoterapist",
+        "aciklama": "Günlük İsimler: Fizik Tedavi Uzmanı, Rehabilitasyon Terapisti\nÇözdüğü Sorunlar:\n- Uzun süre masa başında çalışmaktan boyun ve omuzlarım sürekli ağrıyor.\n- Spor yaparken bileğimden zorlandım, ağrısını geçirmem gerekiyor.\n- Dizimin eklem yerinden sürekli takıldığı ve şiştiği bir sorun yaşıyorum."
+    },
+    "meslek_klinik_psikolog": {
+        "isim": "Klinik Psikolog",
+        "aciklama": "Günlük İsimler: Psikolog, Terapi Danışmanı, Ruh Sağlığı Uzmanı\nÇözdüğü Sorunlar:\n- İş yerindeki sürekli kaygı ve tükenmişlik nedeniyle uyuyamıyorum.\n- Partnerimle nasıl iletişim kuracağımı bilemiyorum, hep kavga ediyoruz.\n- Geçirdiğim bir olay yüzünden sürekli panik ataklar yaşıyorum."
+    },
+    "meslek_psikiyatri_uzman": {
+        "isim": "Psikiyatri Uzmanı",
+        "aciklama": "Günlük İsimler: Psikiyatrist, Ruh Sağlığı Uzmanı\nÇözdüğü Sorunlar:\n- Son zamanlarda sürekli panik atak geçiriyorum, kalp krizi mi geçiriyorum diye endişeleniyorum.\n- Uyuyakalmaktan veya sürekli huzursuz olmaktan dolayı iş hayatımı sürdüremiyorum.\n- Sürekli kendimi değersiz hissediyorum ve bu durum ilişkilerimi çok bozdu."
+    },
+    "meslek_mali_musavir": {
+        "isim": "Mali Müşavir",
+        "aciklama": "Günlük İsimler: Muhasebeci, Vergi Danışmanı\nÇözdüğü Sorunlar:\n- Bu ay ne kadar KDV ödeyeceğim ve hangi belgeleri beyannamede kullanmalıyım?\n- Yeni kurduğum şirket için hangi vergi diliminde olduğumu ve ödeme tarihlerini bilmiyorum.\n- Yıl sonunda hangi masraflarımı gider olarak gösterebilir, hangi belgeleri eksik bırakmamalıyım?"
+    },
+    "meslek_gumruk_musaviri": {
+        "isim": "Gümrük Müşaviri",
+        "aciklama": "Günlük İsimler: Gümrük Danışmanı, Gümrük Uzmanı\nÇözdüğü Sorunlar:\n- Almanya'dan getireceğimiz bir makinanın vergileri ve prosedürü ne olacak?\n- Ürettiğimiz ürünleri başka bir ülkeye ihraat ederken hangi izinlere ihtiyacımız var?\n- Getirdiğimiz hammadde için doğru gümrük sınıflandırma kodunu (HS kodu) bulamıyoruz, takılır mı?"
+    },
+    "meslek_insan_kaynaklar_uzman": {
+        "isim": "İnsan Kaynakları Uzmanı",
+        "aciklama": "Günlük İsimler: İK Uzmanı, Personel Uzmanı\nÇözdüğü Sorunlar:\n- Yeni işe alacağımız pozisyon için kriterlere uyan uygun bir adayı bulmamız gerekiyor.\n- İki çalışan, işyeri kaynaklı bir iletişim çatışması nedeniyle yönetimin araya girmesini istiyor.\n- Çalışanlar, yıllık izin süreleri ve prim hakları hakkındaki kurallar konusunda kafaları karıştı."
+    },
+    "meslek_oto_tamircisi": {
+        "isim": "Oto Tamircisi",
+        "aciklama": "Günlük İsimler: Tamirci, Oto Tamircisi, Ustası\nÇözdüğü Sorunlar:\n- Arabam kontağa bile gelmiyor, akü müdür?\n- Fren pedalına bastığımda normalden çok daha fazla mesafede duruyor.\n- Motorum garip sesler çıkarıyor ve titrek çalışıyor."
+    },
+    "meslek_kaporta_ustas": {
+        "isim": "Kaporta Ustası",
+        "aciklama": "Günlük İsimler: Kaporta Ustası, Oto Boyacı, Göçük Tamircisi\nÇözdüğü Sorunlar:\n- Ön tamponumda bir çarpma sonucu büyük bir ezik oluştu ve renk uyumu sağlanması gerekiyor.\n- Kapı panelinde küçük bir göçük var, ama boyama yapılmadan düzeltilmesi lazım.\n- Arabanın arka bagaj kapağında paslanma başladı ve boyası kalkmış."
+    },
+    "meslek_beyaz_esya_tamircisi": {
+        "isim": "Beyaz Eşya Tamircisi",
+        "aciklama": "Günlük İsimler: Ev Aletleri Tamircisi, Beyaz Eşya Teknisyeni\nÇözdüğü Sorunlar:\n- Çamaşır makinesi yıkama döngüsünü bitirmiyor veya su almıyor.\n- Buzdolabı sürekli çalışmıyor ve içindeki yiyecekler bozuluyor.\n- Bulaşık makinesinden sürekli su sızıntısı oluyor, tesisat bozuluyor."
+    },
+    "meslek_cilingir": {
+        "isim": "Çilingir",
+        "aciklama": "Günlük İsimler: Anahtar Ustası, Kapı Tamircisi\nÇözdüğü Sorunlar:\n- Anahtarları içeride unuttum, eve giremiyorum.\n- Kapımın kilidi bozuldu, içeriden açamıyorum.\n- Apartman kapısının kilidini değiştirmem gerekiyor çünkü eski kilit güven vermiyor."
+    },
+    "meslek_kombi_bakm_ustas": {
+        "isim": "Kombi Bakım Ustası",
+        "aciklama": "Günlük İsimler: Kombici, Tesisatçı, Isıtma Ustası\nÇözdüğü Sorunlar:\n- Sabah kalktığımda ev çok soğuk, kombi çalışmıyor.\n- Banyo musluğundan sıcak su gelmiyor, sadece soğuk su akıyor.\n- Kombiden sürekli garip gıcırtı sesleri geliyor ve hata kodu veriyor."
+    },
+    "meslek_cat_ustas": {
+        "isim": "Çatı Ustası",
+        "aciklama": "Günlük İsimler: Çatı Ustası, Çatı Ustas\nÇözdüğü Sorunlar:\n- Yağmur yağınca evde su damlaması ve kaçak oluşması.\n- Çatıda kiremit arızaları, yerinden çıkmalar veya kırılmalar.\n- Çatıdaki izolasyonun yetersiz kalması veya çatlaklar nedeniyle yalıtımın bozulması."
+    },
+    "meslek_boyac": {
+        "isim": "Boyacı",
+        "aciklama": "Günlük İsimler: Boyacı, Boya Ustası\nÇözdüğü Sorunlar:\n- Salon duvarındaki renk solmuş ve küflenmiş görünüyor.\n- Yeni evimize taşınıyoruz ama tüm odaların sıfırdan boyanması gerekiyor.\n- Salon köşesindeki çatlaklar ve eski kabuk boyalar nedeniyle yüzey pürüzlü duruyor."
+    },
+    "meslek_ic_mimar": {
+        "isim": "İç Mimar",
+        "aciklama": "Günlük İsimler: Dekorasyoncu, İç Tasarımcı\nÇözdüğü Sorunlar:\n- Salonumdaki mobilyalar birbiriyle çatışıyor ve alan çok dar görünüyor, daha ferahlatıcı bir düzen lazım.\n- Küçük bir dairede uyku alanım ile çalışma alanımı ayırmak istiyorum ama duvar yapmak istemiyorum.\n- Depolama ihtiyacım çok yüksek, eşyaları saklayabileceğim, gözle görünmeyen akıllı çözümler gerekiyor."
+    },
+    "meslek_peyzaj_mimar": {
+        "isim": "Peyzaj Mimarı",
+        "aciklama": "Günlük İsimler: Peyzaj Tasarımcısı, Bahçe Mimarı\nÇözdüğü Sorunlar:\n- Bahçemdeki köşeler boş, sıkıcı ve düzenli durmuyor.\n- Yazın öğle sıcağında oturulacak, gölgelik bir alan yaratmak istiyorum.\n- Evime doğal ve estetik bir geçiş alanı (bahçe/bahçe girişi) eklemek istiyorum."
+    },
+    "meslek_grafik_tasarmc": {
+        "isim": "Grafik Tasarımcı",
+        "aciklama": "Günlük İsimler: Tasarımcı, Görsel Tasarımcı, Grafik Uzman\nÇözdüğü Sorunlar:\n- Yeni açılan işletmemizin ayırt edici bir logosu ve marka kimliği yok.\n- Seminer veya ürünler için basılacak broşür ve el ilanlarımız profesyonel durmuyor.\n- Sosyal medyada paylaşacağımız görsel içeriklerin akılda kalıcı ve tutarlı bir tasarım dili olması gerekiyor."
+    },
+    "meslek_video_kurgu_uzman": {
+        "isim": "Video Kurgu Uzmanı",
+        "aciklama": "Günlük İsimler: Kurgucu, Editör\nÇözdüğü Sorunlar:\n- Kamerada çektiğimiz uzun ham görüntülerden sadece akıcı ve önemli kısımları ayıklayarak bir hikaye oluşturamıyorum.\n- Video çok düz ve sıkıcı; izleyicinin dikkatini tutacak ritim ve gerilim yaratılması gerekiyor.\n- Videonun farklı sahneleri arasındaki geçişler ani ve profesyonel görünmüyor."
+    },
+    "meslek_sosyal_medya_uzman": {
+        "isim": "Sosyal Medya Uzmanı",
+        "aciklama": "Günlük İsimler: Sosyal Medya Yöneticisi, Dijital Pazarlama Uzmanı, İçerik Yöneticisi\nÇözdüğü Sorunlar:\n- Ürünümüzü çok başarılı buluyorlar ama kimse nereden ulaşacağımızı bilmiyor.\n- Bir hafta paylaşım yapıyoruz, sonra bir ay kayboluyoruz, takipçilerimiz bizi unutuyor.\n- Birisi kötü bir yorum yaptı, o yorumu nasıl kibarca ve profesyonelce yanıtlamalıyız?"
+    },
+    "meslek_dijital_pazarlama_uzman": {
+        "isim": "Dijital Pazarlama Uzmanı",
+        "aciklama": "Günlük İsimler: Dijital Pazarlamacı, Pazarlama Uzmanı\nÇözdüğü Sorunlar:\n- Web sitemizin Google'da arama sonuçlarında hiç görünürlüğümüz yok.\n- Belirli bir hedef kitleye (örneğin annelere) ulaşmak için doğru reklam stratejisini bilmiyoruz.\n- Online mağazamızda satışlar durgunlaştı, sosyal medyadan nasıl daha çok etkileşim alabiliriz?"
+    },
+    "meslek_emlak_dansman": {
+        "isim": "Emlak Danışmanı",
+        "aciklama": "Günlük İsimler: Emlakçı, Gayrimenkul Danışmanı\nÇözdüğü Sorunlar:\n- İstediğim özelliklere sahip, bütçemi aşmayacak bir ev bulmak.\n- Satmak istediğim mülkü en uygun fiyata ve zamanda alıcıya ulaştırmak.\n- Kira sözleşmesi veya tapu işlemleri gibi hukuki süreçleri karmaşadan kurtarmak."
+    },
+    "meslek_yatrm_dansman": {
+        "isim": "Yatırım Danışmanı",
+        "aciklama": "Günlük İsimler: Finansal Danışman, Portföy Yöneticisi, Para Danışmanı\nÇözdüğü Sorunlar:\n- Emeklilik için ne kadar birikime ihtiyacım olduğunu ve bunu nasıl organize edeceğimi bilmiyorum.\n- Paralarımı nereye yatıracağımı bilemiyorum, borsa çok karışık, risk almalı mıyım?\n- Kira ve eşya almak için biriktirdiğim paranın enflasyona karşı değer kaybetmesinden endişeleniyorum."
+    },
+    "meslek_sigorta_acentesi": {
+        "isim": "Sigorta Acentesi",
+        "aciklama": "Günlük İsimler: Sigortacı, Sigorta Danışmanı\nÇözdüğü Sorunlar:\n- Arabamda şehir içinde küçük bir çarpışma oldu, tüm masraflar çok yüksek olacak.\n- Evde bir su borusu patladı ve yapımı çok maliyetli oldu.\n- Bir aile üyesinin ani bir sağlık problemi yaşaması durumunda tedavi masraflarını karşılayamayacağız."
+    },
+    "meslek_cocuk_doktoru": {
+        "isim": "Çocuk Doktoru",
+        "aciklama": "Günlük İsimler: Çocuk Hekimi, Pediatrist\nÇözdüğü Sorunlar:\n- Geçen zamandır 38.5 derecenin üzerinde yüksek ateşi var.\n- Karnı sürekli ağlıyor ve tuvalette ıkınıyor.\n- Kontrol zamanı geldi, boyu ve kilosu yaşına göre yeterli mi diye bakmamız gerekiyor."
+    },
+    "meslek_kadn_hastalklar": {
+        "isim": "Kadın Hastalıkları",
+        "aciklama": "Günlük İsimler: Jinekolog, Doğum Doktoru\nÇözdüğü Sorunlar:\n- Adet döngüm çok düzensizleşti, hangi kontrole gitmeliyim?\n- Gebelik bekliyorum, hangi evrede olduğumu ve sağlıklı olup olmadığımı öğrenmek istiyorum.\n- Normalden fazla kanama veya şiddetli pelvik ağrı yaşıyorum, sebebi ne olabilir?"
+    },
+    "meslek_ortopedi_uzman": {
+        "isim": "Ortopedi Uzmanı",
+        "aciklama": "Günlük İsimler: Ortopedi Doktoru, Kemik Doktoru\nÇözdüğü Sorunlar:\n- Dizimi burktum, şişliği inmiyor ve geçmiyor.\n- Çocuk oyun oynarken düştü, kolundan kemiği kırılmış.\n- Belimde sürekli ağrı var, bacağıma kadar yayılıyor."
+    },
+    "meslek_cildiye__uzman": {
+        "isim": "Cildiye  Uzmanı",
+        "aciklama": "Günlük İsimler: Cilt Doktoru, Dermatolog\nÇözdüğü Sorunlar:\n- Yüzüm sürekli sivilce çıkıyor ve kalıcı izleri var.\n- Yeni kullandığım deterjandan veya kozmetik ürününden dolayı tüm vücudum kızardı, kaşınıyor.\n- Ayaklarımda sürekli kaşıntı oluyor ve mantar olmadığından şüpheleniyorum."
+    },
+    "meslek_gastroenteroloji_uzman": {
+        "isim": "Gastroenteroloji Uzmanı",
+        "aciklama": "Günlük İsimler: Sindirim Sistemi Uzmanı, Gastroenterolog, İç Hastalıkları Uzmanı\nÇözdüğü Sorunlar:\n- Yemek yedikten kısa süre sonra göğsüme çok şiddetli yanma (reflü) oluyor.\n- Kabızlık ve ishal arasında gidip geliyorum, bağırsaklarım çok hassas.\n- Bir süredir sürekli karın şişkinliği ve gaz sancıları yaşıyorum."
+    },
+    "meslek_noroloji_uzman": {
+        "isim": "Nöroloji Uzmanı",
+        "aciklama": "Günlük İsimler: Nörolog, Sinir Sistemi Uzmanı\nÇözdüğü Sorunlar:\n- Sürekli devam eden, baş ağrısı takibi yapmakta zorlanan bir aile üyesi var.\n- Ellerim ve ayaklarımda sürekli uyuşma, karıncalanma veya güçsüzlük hissediyorum.\n- Belirtileri belirsiz, tekrarlayan nöbetler (epilepsi şüphesi) geçiren bir hasta var."
+    },
+    "meslek_kulak_burun_bogaz_uzman": {
+        "isim": "Kulak Burun Boğaz Uzmanı",
+        "aciklama": "Günlük İsimler: KBB Uzmanı, Kulak Burun Boğaz Doktoru\nÇözdüğü Sorunlar:\n- Sürekli devam eden, sinüsleri tıkamış kronik bir burun tıkanıklığı yaşıyorum.\n- Boğazım sürekli ağrıyor ve geniz akıntısı nedeniyle yutkunmakta zorlanıyorum.\n- Kulaklarımda sürekli bir çınlama sesi (tinnitus) var ve işitme kaybı hissediyorum."
+    },
+    "meslek_genel_cerrahi_uzman": {
+        "isim": "Genel Cerrahi Uzmanı",
+        "aciklama": "Günlük İsimler: Cerrah, Genel Cerrah\nÇözdüğü Sorunlar:\n- Şiddetli ve aniden başlayan karın ağrısı, apandisimin patlama riski.\n- Kasık veya göbek bölgesinde şişlik var, bu bir fıtık olabilir mi?\n- Bir organ veya doku yırtılmış/sökülmüş, içten müdahale edilmesi gerekiyor."
+    },
+    "meslek_dahiliye_uzman": {
+        "isim": "Dahiliye Uzmanı",
+        "aciklama": "Günlük İsimler: Dahiliye Doktoru, İç Hastalıklar Uzmanı\nÇözdüğü Sorunlar:\n- Sürekli yorgun, halsiz ve enerjimsiz hissediyorum, bunun sebebi ne olabilir?\n- Bağırsaklarım çok şişkin ve düzenli bir ağrı çekiyorum, ne var bunun sebebi?\n- Ne tansiyonum çok yüksek çıkıyor ne de şekerim normal, genel bir sağlık kontrolü yaptırmam lazım."
+    },
+    "meslek_estetik_cerrah": {
+        "isim": "Estetik Cerrah",
+        "aciklama": "Günlük İsimler: Plastik Cerrah, Kozmetik Doktor\nÇözdüğü Sorunlar:\n- Burun yapımın diğer yüz özelliklerimle orantılı olmadığını düşünüyorum.\n- Yaşlanmaya bağlı olarak boynum ve yüzümdeki sarkmaları gidermek istiyorum.\n- Vücudumdaki istenmeyen yağ birikimlerini (örneğin bel veya uyluklarda) atmam gerekiyor."
+    },
+    "meslek_veteriner_cerrahi_uzman": {
+        "isim": "Veteriner Cerrahi Uzmanı",
+        "aciklama": "Günlük İsimler: Veteriner, Hayvan Doktoru, Ameliyatlı Veteriner\nÇözdüğü Sorunlar:\n- Köpeğim parka giderken burnuna bir şey battı, çıkarılması gerekiyor.\n- Kedimin kısırlaştırılması gerekiyor, en uygun ameliyat zamanı nedir?\n- Hayvanımın karnında sürekli şişlik yapıyor ve bu durum cerrahi müdahale gerektiriyor."
+    },
+    "meslek_bilisim_avukat": {
+        "isim": "Bilişim Avukatı",
+        "aciklama": "Günlük İsimler: Teknoloji Hukuku Avukatı, Dijital Hukuk Uzmanı, Siber Hukuk Avukatı\nÇözdüğü Sorunlar:\n- Bir sosyal medya hesabım hacklendi ve kimliğimi kullanarak dolandırıcılık yapılmış, yasal hakkımı arıyorum.\n- Yeni bir mobil uygulama geliştiriyorum; veri güvenliği ve kullanıcı gizliliği (KVKK) kurallarına uygun olup olmadığını öğrenmek istiyorum.\n- Bir içerik (fotoğraf/metin) yayınladım ve başka birinin bu içeriği izinsiz kullanarak bana maddi zarar verdiğini düşünüyorum."
+    },
+    "meslek_tuketici_haklar_avukat": {
+        "isim": "Tüketici Hakları Avukatı",
+        "aciklama": "Günlük İsimler: Tüketici Avukatı\nÇözdüğü Sorunlar:\n- Satın aldığım beyaz eşya garanti süresi doldu diye değiştirilmiyor, mağaza sözleşmeyi imzalatmadı.\n- İnternet servis sağlayıcısı taahhüt ettiğim hızı vermiyor ve faturalarım sürekli artırılıyor.\n- Online alışveriş yaptığım bir ürün, vaat edilen özelliklere sahip değil ve iade sürecim uzatılıyor."
+    },
+    "meslek_gayrimenkul_hukuku_avukat": {
+        "isim": "Gayrimenkul Hukuku Avukatı",
+        "aciklama": "Günlük İsimler: Avukat, Emlak Avukatı\nÇözdüğü Sorunlar:\n- Satın alacağım dairenin tapu kayıtlarında şüpheli bir durum var.\n- Kira sözleşmesini imzalayacağım ama maddelerde benim aleyhime bir boşluk kalmış.\n- Komşumuzun bahçe sınırları üzerine çıkıp inşaat yapmaya başlamasıyla ilgili hukuki bir sorun yaşıyorum."
+    },
+    "meslek_aile_terapisti": {
+        "isim": "Aile Terapisti",
+        "aciklama": "Günlük İsimler: Aile Danışmanı, İlişki Terapisti, Psikolog\nÇözdüğü Sorunlar:\n- Eşimle aramızdaki iletişimde sürekli tartışmalar çıkıyor ve anlaşamıyoruz.\n- Okulda başarı düşüşü yaşayan çocuğumuzla nasıl konuşacağımızı bilmiyoruz.\n- Aile içinde bir kriz yaşandı (örneğin, bir boşanma veya ölüm) ve kimse birbirine ulaşamıyor."
+    },
+    "meslek_evlilik_dansman": {
+        "isim": "Evlilik Danışmanı",
+        "aciklama": "Günlük İsimler: İlişki Terapisti, Çift Terapisti\nÇözdüğü Sorunlar:\n- Birbirimize sinirlenip sürekli kavga ediyoruz ama tartışmalarımız hep aynı konular etrafında dönüyor.\n- Çocuk yetiştirme konusunda anlaşamıyoruz; kimi sen, kimi ben diye tartışıyoruz.\n- Artık birbirimizi duygusal olarak hiç anlamadığımızı ve yabancılaştığımızı hissediyoruz."
+    },
+    "meslek_yasam_kocu": {
+        "isim": "Yaşam Koçu",
+        "aciklama": "Günlük İsimler: Koç, Hayat Danışmanı, Rehber\nÇözdüğü Sorunlar:\n- Kariyerimde ne yapmak istediğimden emin değilim ve yolumu kaybettim.\n- Bir ilişkiyi sürekli ben yıpratıyorum ve kişisel sınırlarımı belirleyemiyorum.\n- Hedefler belirli ama sürekli erteleme (prokrastinasyon) yüzünden hiçbir adımı atamıyorum."
+    },
+    "meslek_kariyer_dansman": {
+        "isim": "Kariyer Danışmanı",
+        "aciklama": "Günlük İsimler: İş Danışmanı, Kariyer Rehberi, Meslek Uzmanı\nÇözdüğü Sorunlar:\n- Hangi bölümü okuyacağımı veya hangi mesleği seçeceğimi bilmiyorum.\n- Şu an yaptığım işte mutlu değilim ama ne yapacağımı bilmiyorum.\n- Öğrenciyim ve mezun olduktan sonra hangi iş alanlarına başvurmam gerektiğini anlamıyorum."
+    },
+    "meslek_yeminli_tercuman": {
+        "isim": "Yeminli Tercüman",
+        "aciklama": "Günlük İsimler: Tercüman, Çevirmen, Resmi Tercüman\nÇözdüğü Sorunlar:\n- Yabancı bir mahkemede bir tanığın ifade ettiği kelimelerin doğru anlaşılmasını sağlamak.\n- Yurt dışından gelen resmi belgelerin (diploma, sözleşme vb.) hukuki geçerliliğini yerel dile aktarmak.\n- Bir iş görüşmesinde, farklı diller konuşan taraflar arasında akıcı ve doğru bir iletişim köprüsü kurmak."
+    },
+    "meslek_is_guvenligi_uzman": {
+        "isim": "İş Güvenliği Uzmanı",
+        "aciklama": "Günlük İsimler: İş Güvenliği Danışmanı, Güvenlik Uzmanı\nÇözdüğü Sorunlar:\n- Şantiyede/atölyede devrilme riski olan kablo yığınları var.\n- Kimyasal maddelerle çalışırken doğru önlemleri alıp almadığımızdan emin değiliz.\n- Makineyi kullanırken operatörlerin doğru eğitimden geçip geçmediğini kontrol ettirmemiz gerekiyor."
+    },
+    "meslek_cevre_muhendisi": {
+        "isim": "Çevre Mühendisi",
+        "aciklama": "Günlük İsimler: Çevre Danışmanı, Çevre Uzmanı\nÇözdüğü Sorunlar:\n- Bir fabrikadan çıkan atık suyun çevreye zarar vermeden arıtılması gerekiyor.\n- Bir bölgenin çöp birikimi nedeniyle yeraltı su kaynakları kirleniyor.\n- Bir tesisin emisyonlarının belirlenen standartları aşması ve denetlenmesi gerekiyor."
+    },
+    "meslek_harita_muhendisi": {
+        "isim": "Harita Mühendisi",
+        "aciklama": "Günlük İsimler: Topograf, Kadastro Mühendisi, Haritacı\nÇözdüğü Sorunlar:\n- Yeni yapacağımız ev için arsa sınırları nerede başlıyor, nerede bitiyor?\n- Yol yapacağımız alanın eğimi ne kadar ve temel kaç metre derinliğe inmeli?\n- Parsel içinde yeni bir çeşme veya su hattı döşenecek, bu diğer yapıları etkiler mi?"
+    },
+    "meslek_makine_muhendisi": {
+        "isim": "Makine Mühendisi",
+        "aciklama": "Günlük İsimler: Makineci, Mekanik Mühendis\nÇözdüğü Sorunlar:\n- Fabrikadaki bir üretim hattının motoru sürekli aşırı ısınıyor ve duruyor.\n- Klima sistemimiz istediğimiz havayı vermiyor, enerji verimliliği çok düşük.\n- Evdeki eski ısıtma sisteminden sürekli sızıntı oluyor ve tamir edilmesi gerekiyor."
+    },
+    "meslek_insaat_muhendisi": {
+        "isim": "İnşaat Mühendisi",
+        "aciklama": "Günlük İsimler: Şantiye Mühendisi, Yapı Mühendisi, İnşaat Uzmanı\nÇözdüğü Sorunlar:\n- Binamızın temelinde çatlaklar oluştu, bu neyin habercisi ve ne kadar derin?\n- Bir duvarı yıkıp yerine camlı bir alan yapmak istiyoruz, yapısal olarak sorun olur mu?\n- Yeni bir tesisat döşetirken boru çaplarını ve eğimlerini doğru hesaplayamıyorum."
+    },
+    "meslek_ziraat_muhendisi": {
+        "isim": "Ziraat Mühendisi",
+        "aciklama": "Günlük İsimler: Tarım Uzmanı, Ziraat Uzmanı, Çiftlik Mühendisi\nÇözdüğü Sorunlar:\n- Ürünlerimde (domates, biber vb.) beklenmedik bir hastalık veya haşere salgını var.\n- Toprak verimi düşüyor, ne ekmeli ya da toprağı nasıl iyileştirmeliyiz?\n- Sulama sistemi çok su tüketiyor, daha az su ile maksimum verim nasıl alınır?"
+    },
+    "meslek_veteriner_saglk_teknikeri": {
+        "isim": "Veteriner Sağlık Teknikeri",
+        "aciklama": "Günlük İsimler: Veteriner, Hayvan Doktoru Yardımı, Klinik Teknikeri\nÇözdüğü Sorunlar:\n- Küçük bir ameliyat veya muayene sırasında doktorun ek yardıma ihtiyacı olması.\n- Kan, idrar gibi laboratuvar tahlilleri için güvenli örnek alınması.\n- Bir yaralanma veya hastalık sonrası hayvanın temizlenmesi ve bakımı (pansuman, tıraş vb.)."
+    },
+    "meslek_guzellik_uzman": {
+        "isim": "Güzellik Uzmanı",
+        "aciklama": "Günlük İsimler: Estetisyen, Güzellik Uzmanı, Cilt Bakım Uzmanı\nÇözdüğü Sorunlar:\n- Akne veya sivilce nedeniyle kızarık, izli bir cilt problemi yaşıyorum.\n- Seyahat ve kış nedeniyle ellerim aşırı kuru ve çatlamış durumda.\n- Yüzüm çok yorgun görünüyor ve canlandırıcı bir bakıma ihtiyacım var."
+    },
+    "meslek_lazer_epilasyon_uzman": {
+        "isim": "Lazer Epilasyon Uzmanı",
+        "aciklama": "Günlük İsimler: Epilasyon Uzmanı, Lazer Uzmanı, Estetisyen\nÇözdüğü Sorunlar:\n- Bacak ve kol altı gibi sürekli tüy çıkması nedeniyle yaşanan kıl dönmeleri ve enfeksiyonlar.\n- Tıraş, ağda veya köpük traş sonucu oluşan sürekli kızarıklık, batık tüy ve tahriş.\n- Yoğun tüy yapısına sahip bölgeleri (örneğin yüz veya bikini bölgesi) zahmetsiz ve uzun süreli kalıcı olarak azaltma isteği."
+    },
+    "meslek_kuafor": {
+        "isim": "Kuaför",
+        "aciklama": "Günlük İsimler: Kuaför, Saç Kesici\nÇözdüğü Sorunlar:\n- Saçlarımın çatallaşan, yıpranmış uçlarını kestirmem gerekiyor.\n- Saçımı biraz daha hacimli ve farklı bir tarza şekillendirmem lazım.\n- Saçımın rengi soldu ve daha canlı, yeni bir renge boyatmak istiyorum."
+    },
+    "meslek_terzi": {
+        "isim": "Terzi",
+        "aciklama": "Günlük İsimler: Terzi, Dikişçi\nÇözdüğü Sorunlar:\n- Yeni aldığım pantolonun bel kısmı çok bol geldi, daraltılmasını istiyorum.\n- Abiye elbisenin fermuarı bozuldu, acilen tamir edilmesi gerekiyor.\n- Özel bir etkinlik için, üzerime tam oturacak bir takım elbise diktirmek istiyorum."
+    },
+    "meslek_kuru_temizlemeci": {
+        "isim": "Kuru Temizlemeci",
+        "aciklama": "Günlük İsimler: Kuru Temizleme\nÇözdüğü Sorunlar:\n- Üzerindeki yağ, makinede çıkarılmayan inatçı bir leke var.\n- Hassas kumaştan yapılmış, makinede yıkanamayacak bir elbisem var.\n- Resmi bir etkinlik için giyeceğim takım elbiseyi profesyonelce temizletmek istiyorum."
+    },
+    "meslek_marangoz": {
+        "isim": "Marangoz",
+        "aciklama": "Günlük İsimler: Marangoz, Ahşap Ustası\nÇözdüğü Sorunlar:\n- Mutfaktaki dolaplar yerinden çıktı, düzgün monte edilmiyor.\n- Kitaplık yapmak istiyorum ama odadaki boşluğa tam uymalı.\n- Kapı ve pencere kasalarının ayarı bozuldu, kapanırken sürtünme yapıyor."
+    },
+    "meslek_mobilya_montaj_ustas": {
+        "isim": "Mobilya Montaj Ustası",
+        "aciklama": "Günlük İsimler: Montajcı, Mobilya Ustası\nÇözdüğü Sorunlar:\n- Yeni aldığım dolabı kutusundan çıkarıyorum ama kılavuzlara bakmama rağmen birleşmiyor.\n- Oturma odasındaki kitaplığın dengesiz duruyor ve duvara sabitlenmesi gerekiyor.\n- Taşındığım yeni evdeki tüm dolapları/gardıropları tekrar bir araya getirmem lazım."
+    },
+    "meslek_asansor_bakm_ustas": {
+        "isim": "Asansör Bakım Ustası",
+        "aciklama": "Günlük İsimler: Asansörcü, Lift Teknisyeni\nÇözdüğü Sorunlar:\n- Asansör boşlukta kaldı ve panik düğmesine basılması gerekiyor.\n- Çağrı butonuna basmama rağmen asansör gelmiyor veya düzgün hareket etmiyor.\n- Asansör kapıları aralıktan kapanmıyor veya açılırken zorlanıyor."
+    },
+    "meslek_bocek_ilaclama_uzman": {
+        "isim": "Böcek İlaçlama Uzmanı",
+        "aciklama": "Günlük İsimler: Haşere Kontrol, İlaçlayıcı, Böcek Uzmanı\nÇözdüğü Sorunlar:\n- Mutfak dolaplarında ve tezgah altında sürekli yuva yapan karıncalar var.\n- Banyo ve zeminlerde dolaşan hamam böceklerinden rahatsız oluyoruz.\n- Bodrum veya depo alanlarında fare veya sıçan yuvası bulunuyor."
+    },
+    "meslek_nakliye_firmas": {
+        "isim": "Nakliye Firması",
+        "aciklama": "Günlük İsimler: Nakliyat, Taşıma Firması, Eşya Taşıma\nÇözdüğü Sorunlar:\n- Evdeki büyük, ağır mobilyaları (dolap, kanepe vb.) yukarı çıkarmak imkansız.\n- Bir evden diğerine tüm eşyaları tek tek taşımak ve düzenlemek çok yorucu.\n- Kırılacak veya hassas eşyaları (tabak, kristal vb.) güvenli bir şekilde yeni yere ulaştırmak."
+    },
+    "meslek_kurye": {
+        "isim": "Kurye",
+        "aciklama": "Günlük İsimler: Kurye, Teslimatçı, Paket Servisi Elemanı\nÇözdüğü Sorunlar:\n- Online alışverişim için sipariş ettiğim eşya kapıma ulaşmıyor.\n- Akşam yemeği için sipariş ettiğim yiyecek/restoran malzemeleri elime geçmiyor.\n- Acilen alınması gereken ilaç veya evraklar şu anki konumumda bekliyor."
+    },
+    "meslek_asc": {
+        "isim": "Aşçı",
+        "aciklama": "Günlük İsimler: Aşçı, Şef\nÇözdüğü Sorunlar:\n- Akşam yemeği için ne pişireceğimize karar veremiyoruz ve herkesin doyacağı bir menü istiyoruz.\n- Ailemden biri glutene veya kuruyemişlere alerjisi var, güvenli bir yemek hazırlaması gerekiyor.\n- Misafirlerimiz geliyor, sadece basit yemek değil, sunumu güzel ve çeşitli bir akşam yemeği hazırlamalıyız."
+    },
+    "meslek_organizasyon_sirketi": {
+        "isim": "Organizasyon Şirketi",
+        "aciklama": "Günlük İsimler: Organizasyon Firması, Etkinlik Düzenleme Şirketi\nÇözdüğü Sorunlar:\n- Büyük bir düğün veya nişan töreninin tüm tedarikçileri ve zamanlaması ile baş ağrısı çekmemek.\n- Kurum içi bir eğitim veya seminerde teknik aksaklık (ses, ışık, sunum) yaşamamak.\n- Doğum günü veya yıl dönümü gibi önemli bir kutlamayı tamamen lojistik karmaşaya girmeden organize etmek."
+    },
+    "meslek_fotografc": {
+        "isim": "Fotoğrafçı",
+        "aciklama": "Günlük İsimler: Fotoğrafçı, Fotoğraf Çekici\nÇözdüğü Sorunlar:\n- Evlilik, doğum günü gibi önemli anlardaki duygusal detayları bir anlığına bile olsa yakalamak istiyorum.\n- İşletmemin veya ürünlerimin potansiyel müşterilerde cazip görünmesini sağlayacak görsel materyale ihtiyacım var.\n- Takım fotoğrafı veya kurumsal etkinliklerde herkesi en iyi açıyla ve profesyonel bir kalitede belgelemem gerekiyor."
+    },
+    "meslek_dugun_fotografcs": {
+        "isim": "Düğün Fotoğrafçısı",
+        "aciklama": "Günlük İsimler: Düğün Fotoğrafçısı, Nişan Fotoğrafçısı, Olay Fotoğrafçısı\nÇözdüğü Sorunlar:\n- O kadar çok şey oluyor ki, o mükemmel anları ve duygusal detayları unutmamak.\n- Akşam ışığında dans eden yeni çiftin, yüzündeki mutluluğun profesyonelce yakalanması.\n- Ailelerin bir araya geldiği kalabalık sahnelerde, herkesin aynı anda doğal ve güzel görünmesi."
+    },
+    "meslek_muzisyen": {
+        "isim": "Müzisyen",
+        "aciklama": "Günlük İsimler: Sanatçı, Çalan, Orkestra Üyesi\nÇözdüğü Sorunlar:\n- Evde parti verilecek ama ortamın hiç sesi yok.\n- Bir restoran veya kafeye arka planda güzel, dikkat dağıtmayan bir müzik atmosferi verilmesi gerekiyor.\n- Büyük bir etkinlik (düğün, mezuniyet vb.) için özel bir eğlence ve fon müziği sağlanması gerekiyor."
+    },
+    "meslek_spor_egitmeni": {
+        "isim": "Spor Eğitmeni",
+        "aciklama": "Günlük İsimler: Fitness Eğitmeni, Spor Koçu\nÇözdüğü Sorunlar:\n- Kilo verip daha sağlıklı bir yaşam tarzına nasıl geçebilirim?\n- Dizlerim ağrıyor, ama spor yapmak istiyorum, hangi egzersizler bana uygun?\n- Çalışmaya yeni başlıyorum ama evde tek başıma tutarlı bir program oluşturamıyorum."
+    },
+    "meslek_pilates_egitmeni": {
+        "isim": "Pilates Eğitmeni",
+        "aciklama": "Günlük İsimler: Pilates Öğretmeni, Core Eğitmeni\nÇözdüğü Sorunlar:\n- Uzun süre masa başında oturmaktan kaynaklanan kambur duruş ve sırt ağrısı.\n- Spor yapmaya yeni başlayan ve esnekliğini artırmak isteyen kişiler.\n- Hamilelik sonrası zayıflayan derin karın kaslarını yeniden güçlendirme ihtiyacı."
+    },
+    "meslek_yuzme_antrenoru": {
+        "isim": "Yüzme Antrenörü",
+        "aciklama": "Günlük İsimler: Yüzme Koçu, Yüzme Eğitmeni\nÇözdüğü Sorunlar:\n- Yeni başlayan bir çocuğun su korkusunu yenmesini sağlamak.\n- Belirli bir yarış mesafesinde daha hızlı yüzme teknikleri öğretmek.\n- Fitness amaçlı olarak bir kişinin kondisyonunu artıracak program düzenlemek."
+    },
+    "meslek_ozel_ders_ogretmeni": {
+        "isim": "Özel Ders Öğretmeni",
+        "aciklama": "Günlük İsimler: Özel Öğretmen, Ders Verici\nÇözdüğü Sorunlar:\n- Lise konularında temel eksiklerim var ve hangi dersten başlamalıyım?\n- Yaklaşan sınav için hangi kaynak kitaplardan hazırlanmam gerektiği belli değil.\n- Okul derslerinde konuyu anlamakta zorlanıyorum ve evde tekrar yapacak sistematik bir yöntem bulamıyorum."
+    },
+    "meslek_otizm_egitim_uzman": {
+        "isim": "Otizm Eğitim Uzmanı",
+        "aciklama": "Günlük İsimler: Otizm Terapisti, Özel Eğitimci\nÇözdüğü Sorunlar:\n- Kalabalık veya gürültülü bir ortamda aşırı yüklenme (overload) sonucu paniklemesi.\n- Günlük yaşam becerilerini (fırça dişlerini fırçalama, giyinme) kendi başına yapmayı öğrenmesi.\n- Okulda veya yeni bir ortamda rutin değişikliklere veya geçişlere nasıl uyum sağlayacağı."
+    },
+    "meslek_konusma_terapisti": {
+        "isim": "Konuşma Terapisti",
+        "aciklama": "Günlük İsimler: Dil Terapisti, Konuşma Bozukluğu Uzmanı\nÇözdüğü Sorunlar:\n- Yeni konuşmaya başlayan bir bebek belirli sesleri (örneğin 'r' veya 'l') doğru çıkaramıyor.\n- Bir çocuğun, yaşıtları gibi karmaşık cümleler kurmakta ve kelime dağarcığını kullanmakta zorlanması.\n- Konuşma sırasında takılmalar yaşıyor (kekemelik) veya sesini belirli durumlarda yüksek çıkaramıyor."
+    },
+    "meslek_gumruk_komisyoncusu": {
+        "isim": "Gümrük Komisyoncusu",
+        "aciklama": "Günlük İsimler: Gümrük Müşaviri, Gümrükçü\nÇözdüğü Sorunlar:\n- Amerika'dan gelen ürünler gümrükte takıldı, hangi ek belgelere ihtiyacımız var?\n- İthal ettiğimiz malzeme için hangi vergiler ve ek gümrük vergileri ödememiz gerekiyor?\n- Yurt dışından getirdiğimiz elektronik ürünün sınıflandırılması yüzünden geçmiyor, kodu neresi?"
+    },
+    "meslek_lojistik_uzman": {
+        "isim": "Lojistik Uzmanı",
+        "aciklama": "Günlük İsimler: Lojistik Planlayıcısı, Tedarik Zinciri Uzmanı, Operasyon Mühendisi\nÇözdüğü Sorunlar:\n- Bir siparişin adresime gelmesi gereken tarihi öngörülemez şekilde değişti ve ne zaman geleceğini öğrenmem gerekiyor.\n- Fabrikamız için gerekli hammaddeler, üretim hattı durmaması için tam zamanında ve doğru yerde olmalı.\n- Farklı şehirlerdeki birden fazla teslimat rotasını en az maliyetle ve en kısa sürede planlamamız gerekiyor."
+    },
+    "meslek_kredi_dansman": {
+        "isim": "Kredi Danışmanı",
+        "aciklama": "Günlük İsimler: Banka Danışmanı, Kredi Uzmanı, Finans Danışmanı\nÇözdüğü Sorunlar:\n- Yeni bir ev veya araba almak istiyorum ama elimde yeterli peşinat yok.\n- Birden fazla kredi kartı borcum var, bunları tek bir ödemede birleştirmem gerekiyor.\n- Maaşımın ne kadarı kadar borçlanabileceğim ve taksitleri nasıl düzenleyebileceğim konusunda yardıma ihtiyacım var."
+    },
+    "meslek_banka_musteri_temsilcisi": {
+        "isim": "Banka Müşteri Temsilcisi",
+        "aciklama": "Günlük İsimler: Müşteri Temsilcisi, Banka Çalışanı, Banka Danışmanı\nÇözdüğü Sorunlar:\n- İnternet bankacılığı şifremi unuttum, hesabıma giriş yapamıyorum.\n- Hesabımdan tanımadığım bir çekim yapılmış, kartım dolandırılmış olabilir.\n- Bir havale yapmam gerekiyor ama işlem limitimi veya gerekli bilgileri öğrenmem gerekiyor."
+    },
+    "meslek_vergi_hukuku_uzman": {
+        "isim": "Vergi Hukuku Uzmanı",
+        "aciklama": "Günlük İsimler: Vergi Uzmanı, Mali Müşavir, Vergi Danışmanı\nÇözdüğü Sorunlar:\n- Yeni bir iş koluna gireceğiz, vergi yükümlülüklerimiz ne olacak?\n- Geçen yıla ait beyannemizde eksik bir harcama yapmışız, bu düşülebilir mi?\n- Ticaret Bakanlığı'ndan gelen bu kesintinin hukuki dayanağı nedir ve nasıl itiraz edeceğiz?"
+    },
+    "meslek_oto_ekspertiz_uzman": {
+        "isim": "Oto Ekspertiz Uzmanı",
+        "aciklama": "Günlük İsimler: Araba Eksperi, Araç Kontrolü, Ekspertiz Merkezi\nÇözdüğü Sorunlar:\n- Satın alacağım ikinci el araçta gizli bir motor veya şanzıman sorunu olup olmadığını merak ediyorum.\n- Aracın daha önce geçirdiği büyük bir kaza sonucu gizlenmiş gövde hasarları var mı?\n- Lastik, fren ve amortisör gibi güvenlik sistemleri uzun yolculuklara uygun durumda mı?"
+    },
+    "meslek_arac_kiralama__firmas": {
+        "isim": "Araç Kiralama  Firması",
+        "aciklama": "Günlük İsimler: Araba Kiralama, Araç Kiralama\nÇözdüğü Sorunlar:\n- İstanbul'dan Antalya'ya hafta sonu aile yolculuğu yapacağız ama arabamız yeterli değil.\n- Arabam şu an serviste, acil işlerim için geçici bir araca ihtiyacım var.\n- Büyük bir etkinliğe katılacağım, günübirlik ulaşım için kullanacak bir araca ihtiyacım var."
+    },
+    "meslek_seyahat_acentesi": {
+        "isim": "Seyahat Acentesi",
+        "aciklama": "Günlük İsimler: Tatil Acentası, Seyahat Acentesi, Turizm Acentası\nÇözdüğü Sorunlar:\n- Ailece gideceğimiz yurt dışı tatili için uçak, konaklama ve transferleri bir arada ayarlamam gerekiyor.\n- Son dakikada iptal olan uçuşumu başka bir tarihe veya rotaya değiştirmem lazım.\n- Belirli bir bütçeye uygun, egzotik bir destinasyon bulmak ve tüm detayları halletmek istiyorum."
+    },
+    "meslek_vize_dansman": {
+        "isim": "Vize Danışmanı",
+        "aciklama": "Günlük İsimler: Vize Uzmanı, Seyahat Belge Danışmanı, Vize Acentası\nÇözdüğü Sorunlar:\n- Almanya'da eğitim için gerekli belgeler listesi çok uzun, nereden başlayacağımı bilemiyorum.\n- Aile ziyareti için vize başvurumu yapacağım ama sistemde hangi belgenin güncel olduğunu bulamıyorum.\n- Başvurum kabul edilmedi, reddedilme nedenimi anlayamıyorum ve yeniden ne yapmam gerekiyor?"
+    },
+    "meslek_karavan_kiralama": {
+        "isim": "Karavan Kiralama",
+        "aciklama": "Günlük İsimler: Karavan Kiralama, Gezi Karavanı Kiralatıcısı\nÇözdüğü Sorunlar:\n- Belirli bir otel veya şehre bağlı kalmadan doğada bir gece konaklama imkanı bulmak.\n- Ailece yapılan uzun bir yolculukta, tüm ihtiyaçları karşılayacak bağımsız bir üs edinmek.\n- Ulaşılması zor olan, büyük bir alana yayılmayı gerektiren doğal gezi rotalarına çıkmak."
+    },
+    "meslek_evden_eve_nakliyat_ustas": {
+        "isim": "Evden Eve Nakliyat Ustası",
+        "aciklama": "Günlük İsimler: Nakliyatçı, Taşınma Servisi, Eşya Taşıyıcı\nÇözdüğü Sorunlar:\n- Bir odayı tamamen boşaltıp, yeni adresteki mobilya yerleşim planına göre kurmak.\n- Merdivenlerden büyük, ağır ve kırılacak eşyaları (buzdolabı, vestiye vb.) güvenle inip çıkarmak.\n- Kutulama, paketleme ve envanteri yeni adrese eksiksiz bir şekilde ulaştırmak."
+    },
+    "meslek_vinc_operatoru": {
+        "isim": "Vinç Operatörü",
+        "aciklama": "Günlük İsimler: Vinççi\nÇözdüğü Sorunlar:\n- Binanın üst katına ulaşması gereken çok ağır beton kolonları kaldırmamız gerekiyor.\n- İnşaat sahasındaki cephe panellerini, yerine milimetrik hassasiyetle yerleştirmemiz gerekiyor.\n- Yeni bir makinenin kurulacağı zemine çok büyük ve ağır bir ekipmanı güvenli bir şekilde yerleştirmemiz gerekiyor."
+    },
+    "meslek_hafriyat_uzman": {
+        "isim": "Hafriyat Uzmanı",
+        "aciklama": "Günlük İsimler: Kazıcı, Hafriyatçı\nÇözdüğü Sorunlar:\n- Yeni yapılacak binanın temelinin atılması için gerekli derin kazı yapılmalı.\n- Yeni döşenecek su, elektrik veya kanalizasyon borularının geçeceği hendekler kazılmalı.\n- Şantiye alanı düzensiz ve engebeli, zemin seviyesinin düzeltilmesi gerekiyor."
+    },
+    "meslek_havuz_bakm_ustas": {
+        "isim": "Havuz Bakım Ustası",
+        "aciklama": "Günlük İsimler: Havuz Bakımcısı, Havuz Temizleyici\nÇözdüğü Sorunlar:\n- Havuz suyu yeşile döndü, içi çamur gibi ve sağlıklı değil.\n- Filtre sistemi düzgün çalışmıyor, su yeterince dolaşmıyor.\n- Su kimyasalları dengesiz (çok fazla klor/çok az klor), rahat kullanamıyoruz."
+    },
+    "meslek_gunes_paneli_kurulum_uzman": {
+        "isim": "Güneş Paneli Kurulum Uzmanı",
+        "aciklama": "Günlük İsimler: Solar Enerji Kurulumcusu, Güneş Paneli Montajcısı\nÇözdüğü Sorunlar:\n- Elektrik kesildiğinde evi bir süre aydınlatacak bir çözüm arıyorum.\n- Elektrik faturasını düşürmek için kendi elektriğimi üretmek istiyorum.\n- Şehirde elektrik şebekesi çekilmesi çok pahalı, alternatif bir enerji kaynağı lazım."
+    },
+    "meslek_akll_ev_sistemleri_uzman": {
+        "isim": "Akıllı Ev Sistemleri Uzmanı",
+        "aciklama": "Günlük İsimler: Ev Otomasyon Teknisyeni, Akıllı Ev Kurulumcusu\nÇözdüğü Sorunlar:\n- Evden çıkmışken ışıkları, klimayı veya demirbaşları kapatıp kapatmadığımı kontrol etmek ve açmak istiyorum.\n- Her odada farklı cihazlar olduğu için, tüm bu cihazları tek bir sistemden kontrol etmek zorunda kalıyorum.\n- Evde olmadığımızda, güvenlik kameralarını ve kapı kilitlerini uzaktan kontrol ederek güvende hissetmek istiyorum."
+    },
+    "meslek_endokrinoloji_uzman": {
+        "isim": "Endokrinoloji Uzmanı",
+        "aciklama": "Günlük İsimler: Hormon Uzmanı, Metabolizma Hastalıkları Uzmanı\nÇözdüğü Sorunlar:\n- Kendimi sürekli çok yorgun hissediyorum, saçlarım dökülüyor ve ne yapsam kilo veremiyorum.\n- Tuvalete çok sık gidiyorum, aşırı susuzluğum var ve kan şekeri kontrolüm yapamıyorum.\n- Ruh halim çok değişken, uykularım düzensiz ve sürekli halsiz kalıyorum."
+    },
+    "meslek_onkoloji_uzman": {
+        "isim": "Onkoloji Uzmanı",
+        "aciklama": "Günlük İsimler: Onkolog, Kanser Doktoru\nÇözdüğü Sorunlar:\n- Boyun veya memesinde fark edilen bir şişliğin ne olduğu ve ne zaman endişe edileceklerini anlamak.\n- Kemoterapi sonrası oluşan şiddetli bulantı ve yorgunlukla günlük yaşama devam etmek.\n- Birden fazla tedavi seçeneği arasından, hastaya en uygun tedavi planını (ilaç, radyoterapi vb.) belirlemek."
+    },
+    "meslek_nefroloji_uzman": {
+        "isim": "Nefroloji Uzmanı",
+        "aciklama": "Günlük İsimler: Böbrek Doktoru, Nefrolog\nÇözdüğü Sorunlar:\n- Kan basıncım sürekli yüksek ve böbreklerimin uzun vadede zarar görüp görmediğini merak ediyorum.\n- Bacaklarımda sürekli bir şişlik var ve bu böbrek fonksiyonları ile ilgili bir sorundan mı kaynaklanıyor?\n- İdrarımda aşırı köpürme olması beni çok endişelendiriyor, nedeni ne olabilir?"
+    },
+    "meslek_romatoloji_uzman": {
+        "isim": "Romatoloji Uzmanı",
+        "aciklama": "Günlük İsimler: Romatolog, Eklem Hastalıkları Uzmanı\nÇözdüğü Sorunlar:\n- Sabahları uyandıktan sonra eklemlerde hissedilen aşırı tutulma ve sertlik.\n- Parmak ve diz gibi yaygın eklemlerdeki nedeni bilinmeyen şişlik ve sürekli ağrılar.\n- Vücudu genel bir yorgunluk ve bitkinlik hissi ile sürekli ağrılar nedeniyle zayıflatan kronik rahatsızlıklar."
+    },
+    "meslek_uroloji_uzman": {
+        "isim": "Üroloji Uzmanı",
+        "aciklama": "Günlük İsimler: Ürolog, Mesane Doktoru\nÇözdüğü Sorunlar:\n- İdrar yaparken akışın zayıf olması veya sürekli bir zorlanma hissetmek.\n- Mesane veya böbrek taşından kaynaklanan şiddetli yanma ve ağrı.\n- Tuvalette idrar kaçırma problemi yaşamak."
+    },
+    "meslek_beyin": {
+        "isim": "Beyin",
+        "aciklama": "Günlük İsimler: Beyin, Düşünme Merkezi\nÇözdüğü Sorunlar:\n- Sabah uyanınca nerede kaldığımızı veya ne yapmamız gerektiğini unuttum.\n- Trafikte rotam değişince hangi yoldan gideceğimi bilemedim.\n- Akşam yemeğinde ne yiyeceğime, hangi malzemenin eksik olduğuna karar veremedim."
+    },
+    "meslek_kalp": {
+        "isim": "Kalp",
+        "aciklama": "**Not:** Girilen meslek (Kalp) bir meslek değil, bir organdır. Görevi yerine getirebilmek adına, bu mesleği icra eden profesyonel olan **Kardiyolog** olarak varsayılmıştır.\n\nGünlük İsimler: Kalp Doktoru, Kardiyoloji Uzmanı\nÇözdüğü Sorunlar:\n- Göğsümde sıkışma hissediyorum, acaba kalp krizi mi yaşıyorum?\n- Kalbim düzensiz atıyor, bazen yerinden çıkacak gibi oluyor.\n- Kan tansiyonum çok yüksek, ne yiyip ne kaçınmam gerektiğini bilmiyorum."
+    },
+    "meslek_enfeksiyon_hastalklar_uzman": {
+        "isim": "Enfeksiyon Hastalıkları Uzmanı",
+        "aciklama": "Günlük İsimler: Enfeksiyon Uzmanı, Enfeksiyon Hastalıkları Doktoru\nÇözdüğü Sorunlar:\n- Sürekli geçmeyen ateşim ve boğaz ağrım var, bunun nedeni ne olabilir?\n- Kullandığım antibiyotiklere rağmen iyileşemeyen bir enfeksiyonum var.\n- Seyahatteyken mide bulantısı ve kusma yaşıyorum, bunun bakteri mi yoksa virüs müden kaynaklandığını bilmek istiyorum."
+    },
+    "meslek_gogus_hastalklar_uzman": {
+        "isim": "Göğüs Hastalıkları Uzmanı",
+        "aciklama": "Günlük İsimler: Akciğer Doktoru, Solunum Yolu Uzmanı\nÇözdüğü Sorunlar:\n- Astım atağı geçiriyorum, nefes almakta çok zorlanıyorum.\n- Sürekli ve şiddetli öksürük, balgam çıkartıyorum.\n- Göğüs ağrısıyla uyuyamıyorum ve ciğerlerim dolgun geliyor."
+    },
+    "meslek_alerji": {
+        "isim": "Alerji",
+        "aciklama": "Günlük İsimler: Alerji Uzmanı, Alerji Doktoru, İmmünoloji Uzmanı\nÇözdüğü Sorunlar:\n- İlkbaharda sürekli akıntılı, kaşıntılı gözlerim var ve hapşırmaktan duramıyorum.\n- Bir yemeği yedikten sonra aniden nefesim daralıyor ve göğsüm sıkışıyor.\n- Boyun bucağına yeni takılan bir kolye veya kullandığım bir sabun beni sürekli kızartıyor ve kaşınıyor."
+    },
+    "meslek_hematoloji_uzman": {
+        "isim": "Hematoloji Uzmanı",
+        "aciklama": "Günlük İsimler: Kan Hastalıkları Uzmanı, Hematolog\nÇözdüğü Sorunlar:\n- Sürekli yorgunluk çekiyorum, doktora görünüyorum ama kan tahlilimde düşük değerler çıkıyor.\n- Küçük bir darbe almamama rağmen eklemlerde veya vücudumda garip yerlerde morarmalar oluyor ve geçmiyor.\n- Normalde çabucak pıhtılaşması gereken bir kanama (örneğin burun kanaması) durmuyormuş gibi hissediyorum."
+    },
+    "meslek_tbbi_genetik_uzman": {
+        "isim": "Tıbbi Genetik Uzmanı",
+        "aciklama": "Günlük İsimler: Genetikçi, Genetik Danışman\nÇözdüğü Sorunlar:\n- Ailemizde geçmişte yaşanmış ve sebebini tam olarak bilemediğimiz bir sağlık sorunu tekrar yaşanır mı?\n- Gebeliğimizde bebeğimizin kromozom yapısı veya genetik bir riski var mı?\n- Bir bireyin yaşadığı, tek bir hastalık adıyla açıklanamayan karmaşık ve rastgele belirtiler gösteren bir durumun genetik kökeni nedir?"
+    },
+    "meslek_spor_hekimi": {
+        "isim": "Spor Hekimi",
+        "aciklama": "Günlük İsimler: Spor Doktoru, Fizyoterapist\nÇözdüğü Sorunlar:\n- Koşu sırasında bileğim burkuldu, tam olarak ne kadar sürede sahaya dönebilirim?\n- Bir spor dalını değiştirdim, vücudumdaki kas dengesizliği nedeniyle ağrılar çekiyorum.\n- Kronik bir eklem ağrım var ve bu ağrı, antrenman performansımı düşürüyor."
+    },
+    "meslek_adli_tp_uzman": {
+        "isim": "Adli Tıp Uzmanı",
+        "aciklama": "Günlük İsimler: Adli Tıp Doktoru, Otopsi Uzmanı, Adli Tıp Mühendisi\nÇözdüğü Sorunlar:\n- Bir kişinin ölüm nedeninin doğal mı, kaza sonucu mu yoksa başka bir sebepten mi olduğunu kesin olarak bilmek.\n- Bir suç mahallindeki yaralanmanın ne zaman ve nasıl meydana geldiğini tespit etmek.\n- Kimliği belirlenememiş bir cesedin kimliğinin anlaşılması."
+    },
+    "meslek_pratisyen_hekim": {
+        "isim": "Pratisyen Hekim",
+        "aciklama": "Günlük İsimler: Aile Hekimi, Doktor\nÇözdüğü Sorunlar:\n- Çocukta yüksek ateş, soğuk algınlığı belirtileri var, ne yapmalıyız?\n- Kronik olarak devam eden kabızlık veya mide yanması şikayetim var.\n- Grip geçirdiğim için genel kontrol ve kan değerlerim hakkında bilgi almak istiyorum."
+    },
+    "meslek_yazlm_mimar": {
+        "isim": "Yazılım Mimarı",
+        "aciklama": "Günlük İsimler: Sistem Tasarımcısı, Yazılım Tasarımcısı, Mimari Uzmanı\nÇözdüğü Sorunlar:\n- Kullanıcı sayısı artınca web sitemiz sürekli çöküyor ve yavaşlıyor.\n- Farklı departmanlardaki (satış, muhasebe vb.) veriler tek bir sistemde birbiriyle konuşmuyor.\n- Artık yeni bir özellik eklemek istiyoruz ama mevcut yapısı o kadar karmaşık ki, neyi nereden değiştireceğimiz belli değil."
+    },
+    "meslek_veri_bilimcisi": {
+        "isim": "Veri Bilimcisi",
+        "aciklama": "Günlük İsimler: Veri Analisti, Büyük Veri Uzmanı\nÇözdüğü Sorunlar:\n- Neden son ayki satışlarımız belirli bölgelerde beklenenin altında kaldı ve ne yapmalıyız?\n- Müşterilerimizin hangi aşamada (web sitesinde) vazgeçtiğini ve nerede sorun yaşadığımızı anlamamız gerekiyor.\n- Gelecek çeyrekte hangi ürünlere veya bölgelere yatırım yapmamız gerektiğini tahmin etmeliyiz."
+    },
+    "meslek_yapay_zeka_muhendisi": {
+        "isim": "Yapay Zeka Mühendisi",
+        "aciklama": "Günlük İsimler: AI Geliştirici, Makine Öğrenmesi Mühendisi, Yapay Zeka Uzmanı\nÇözdüğü Sorunlar:\n- Çok büyük miktarda veriyi (örneğin binlerce fotoğraf veya metin) elle taramam gerekiyor, hangi veriler önemli?\n- Müşteri hizmetleri için 7/24 çalışan, beni yormayacak akıllı bir sistem kurmam gerekiyor.\n- Bir trendin (hastalık, piyasa dalgalanması vb.) gerçekleşip gerçekleşmeyeceğini önceden yüksek doğrulukla tahmin etmeliyim."
+    },
+    "meslek_veri_taban_yoneticisi": {
+        "isim": "Veri Tabanı Yöneticisi",
+        "aciklama": "Günlük İsimler: DBA, Veri Uzmanı, Veritabanı Yöneticisi\nÇözdüğü Sorunlar:\n- Sistem çöktü, en son önemli müşteri sipariş listemize ulaşılamıyor ve kurtarılması gerekiyor.\n- Web sitesindeki kullanıcı profillerini çekmek çok yavaşladı, site neredeyse kullanılamaz durumda.\n- Bir departman başka bir departmanın kullandığı müşteri ID numarasını yanlış alana kaydediyor, bu yüzden veri tutarsızlığı yaşıyoruz."
+    },
+    "meslek_ag": {
+        "isim": "Ağ",
+        "aciklama": "Günlük İsimler: Network Uzmanı, Sistemci, Bilgi Teknolojileri Teknisyeni\nÇözdüğü Sorunlar:\n- Evdeki veya ofisteki Wi-Fi sinyali sürekli kesiliyor, güvenilir değil.\n- Uzaktan çalışan bir arkadaşımın bilgisayarı şirket ağındaki dosyalarına ulaşamıyor.\n- İnternet hızı sürekli çok düşük kalıyor, toplantıları yapamıyoruz."
+    },
+    "meslek_bulut_bilisim_uzman": {
+        "isim": "Bulut Bilişim Uzmanı",
+        "aciklama": "Günlük İsimler: Bilişim Danışmanı, Sistem Uzmanı, Cloud Danışmanı\nÇözdüğü Sorunlar:\n- Ofis sunucumuz çöktü, iş verilerimizin tamamen kaybolmasından korkuyoruz.\n- Ekibim farklı şehirlerde çalışıyor, ortak dosyalara güvenli ve güncel bir şekilde erişemiyoruz.\n- Web sitemiz çok popüler oldu, trafik aniden arttığında sistemi çökertiyor."
+    },
+    "meslek_devops_muhendisi": {
+        "isim": "DevOps Mühendisi",
+        "aciklama": "Günlük İsimler: Sistem Mühendisi, DevOps Uzmanı\nÇözdüğü Sorunlar:\n- Web sitemiz kullanıcı yükü artınca sürekli çöküyor ve aksıyor.\n- Yeni özelliği hayata geçirmek haftalar sürüyor, süreç çok yavaş ve karmaşık.\n- Bir kod değişikliğini canlı sisteme çıkarmak çok riskli, manuel hataya çok açık."
+    },
+    "meslek_mobil_uygulama_gelistiricisi": {
+        "isim": "Mobil Uygulama Geliştiricisi",
+        "aciklama": "Günlük İsimler: Yazılımcı, Mobil Uygulama Yapımcısı, App Geliştiricisi\nÇözdüğü Sorunlar:\n- Bir etkinlik veya randevuyu hatırlamak için her seferinde takvimime bakmak gerekiyor.\n- Bir ürünün hangi dükkanda en uygun fiyata veya en yakın zamanda bulunacağını öğrenmek zor oluyor.\n- Farklı hizmetleri veya arkadaşları bir araya getirecek bir organizasyon platformuna ihtiyacımız var."
+    },
+    "meslek_oyun_gelistiricisi": {
+        "isim": "Oyun Geliştiricisi",
+        "aciklama": "Günlük İsimler: Game Dev, Oyun Yapımcısı, Eğlence Yazılımcısı\nÇözdüğü Sorunlar:\n- Canım sıkıldı, ne izleyeceğimi ya da ne yapacağımı bulamıyorum.\n- Hem eğlenmek hem de yeni şeyler öğrenmek istiyorum.\n- Arkadaşlarımızla buluşup, hep birlikte rekabet edebileceğimiz bir aktiviteye ihtiyacımız var."
+    },
+    "meslek_frontend_developer": {
+        "isim": "Frontend Developer",
+        "aciklama": "Günlük İsimler: Web Geliştirici, Ön Yüz Geliştirici\nÇözdüğü Sorunlar:\n- Web sitesinin telefonlarda (mobil) veya farklı ekranlarda düzgün görünmemesi (responsive olması).\n- Bir butona tıklandığında beklenen etkileşimin gerçekleşmemesi veya kullanıcı arayüzünün kafa karıştırıcı olması.\n- Bir sitenin çok yavaş açılması veya kullanıcı deneyimini düşürecek görsel hatalar içermesi."
+    },
+    "meslek_backend_developer": {
+        "isim": "Backend Developer",
+        "aciklama": "Günlük İsimler: Yazılımcı, Sunucu Yazılımcısı, Backend Mühendisi\nÇözdüğü Sorunlar:\n- Online mağazada ödeme yaparken \"İşlem Başarısız\" hatası alıyoruz, para geçmiyor.\n- Web sitesine yoğun trafik geldiğinde sistem yavaşlıyor ve aniden çöküyor.\n- Mobil uygulamada profil bilgilerimi güncelledim ama siteye başka bir cihazdan girdiğimde eski bilgileri görüyorum."
+    },
+    "meslek_full_stack_developer": {
+        "isim": "Full Stack Developer",
+        "aciklama": "Günlük İsimler: Yazılımcı, Web Geliştirici\nÇözdüğü Sorunlar:\n- Bir web sitesinin mobil cihazlarda düzgün çalışmamasını.\n- Bir formdan gönderilen kullanıcı verilerinin veritabanına doğru şekilde kaydedilememesini.\n- Farklı online sistemlerin (örneğin ödeme altyapısının) birbiriyle konuşmasını ve entegre olmasını."
+    },
+    "meslek_ux": {
+        "isim": "UX",
+        "aciklama": "Günlük İsimler: Kullanıcı Deneyim Tasarımcısı, Dijital Deneyim Mimarı\nÇözdüğü Sorunlar:\n- Bir e-ticaret sitesinde aradığım ürün kategorisini bulmak için sürekli yanlış yere tıklamam.\n- Bir uygulamayı kullanmaya başlarken hangi menünün nerede olduğunu öğrenmekle vakit kaybetmem.\n- Ödeme adımları çok uzun ve karmaşık olduğu için işlemi yarım bırakmak zorunda kalmam."
+    },
+    "meslek_seo_uzman": {
+        "isim": "SEO Uzmanı",
+        "aciklama": "Günlük İsimler: Dijital Pazarlama Uzmanı, Arama Motoru Uzmanı\nÇözdüğü Sorunlar:\n- Yeni açılan web sitemiz Google'da arama sonuçlarında hiç görünmüyor.\n- Rakiplerimiz, bizim hedeflediğimiz önemli anahtar kelimelerin her zaman üst sıralarında çıkıyor.\n- Web sitemiz ziyaretçi çekiyor, ancak ziyaretçiler ürün bilgilerini bulamıyor veya iletişime geçmiyor."
+    },
+    "meslek_otomotiv_muhendisi": {
+        "isim": "Otomotiv Mühendisi",
+        "aciklama": "Günlük İsimler: Otomobil Mühendisi, Araba Mühendisi\nÇözdüğü Sorunlar:\n- Arabam çok yakıt tüketiyor, daha verimli ve az yakan bir motora ihtiyacım var.\n- Yeni satın aldığım araçta şehir içi kullanım için yetersiz fren mesafesi var, güvenlik sistemi yeterli değil.\n- Eski benzinli aracımı çevre dostu olması için hibrit veya elektrikli sisteme nasıl dönüştüreceğimi bilmiyorum."
+    },
+    "meslek_havaclk": {
+        "isim": "Havacılık",
+        "aciklama": "Günlük İsimler: Pilot, Havayolu Şirketi, Uçuş Servisi\nÇözdüğü Sorunlar:\n- Türkiye'nin farklı kıtalarındaki uzak şehirlere hızlı ve güvenli bir şekilde ulaşmak.\n- Deprem veya doğal afet bölgelerine insani yardım ve tıbbi malzeme ulaştırmak.\n- Karayolu veya denizyolu ile geçilmesi zor, izole edilmiş bölgelere ulaşım sağlamak."
+    },
+    "meslek_biyomedikal_muhendisi": {
+        "isim": "Biyomedikal Mühendisi",
+        "aciklama": "Günlük İsimler: Tıbbi Cihaz Mühendisi, Medikal Mühendis\nÇözdüğü Sorunlar:\n- Hastanın kalp ritmini sürekli, uzak mesafeden izleyecek bir cihaz gerekiyor.\n- Ameliyat sonrası hareket kabiliyetimi artıracak, vücuda takılan bir protez ihtiyacım var.\n- Doktorun, vücudumun iç organlarını daha net ve ayrıntılı bir şekilde görmesi gerekiyor."
+    },
+    "meslek_mekatronik_muhendisi": {
+        "isim": "Mekatronik Mühendisi",
+        "aciklama": "Günlük İsimler: Otomasyon Mühendisi, Robotik Uzmanı\nÇözdüğü Sorunlar:\n- Bir fabrika hattındaki ürünlerin, hızlı ve hatasız bir şekilde ayrıştırılması veya paketlenmesi gerekiyor.\n- Evdeki ısıtma, aydınlatma ve güvenlik kameraları ayrı ayrı çalışıyor, tek bir merkezden kontrol edilmiyor.\n- Uzaktan kumanda edilen bir robotun, hassas bir ortamda, sürekli aynı hareketi tekrarlayarak montaj yapması gerekiyor."
+    },
+    "meslek_malzeme_muhendisi": {
+        "isim": "Malzeme Mühendisi",
+        "aciklama": "Günlük İsimler: Malzeme Uzmanı, Malzeme Bilimci\nÇözdüğü Sorunlar:\n- Araba gövdesinin hem hafif olması hem de çarpışmalarda dayanıklı olması gerekiyor.\n- Denizde kullanılan boruların sürekli tuzlu su ve korozyona karşı yıpranması engellenmeli.\n- Yüksek ısıya maruz kalacak motor parçalarının (fren, turbo vb.) erimeden veya çatlamadan uzun süre dayanması sağlanmalı."
+    },
+    "meslek_metalurji_muhendisi": {
+        "isim": "Metalurji Mühendisi",
+        "aciklama": "Günlük İsimler: Metal Mühendisi, Malzeme Mühendisi\nÇözdüğü Sorunlar:\n- İnşaat alanında kullanılacak çelik veya betonun belirli bir yük altında çatlamadan dayanması gerekiyor.\n- Endüstriyel bir makinede sürekli paslanma ve yıpranma nedeniyle duraksamalar yaşanıyor.\n- Yüksek ısı ve basınç altında çalışacak kritik bir bileşenin malzeme seçimi yapılmalı."
+    },
+    "meslek_petrol": {
+        "isim": "Petrol",
+        "aciklama": "Günlük İsimler: Sondaj Mühendisi, Enerji Uzmanı, Petrol Mühendisi\nÇözdüğü Sorunlar:\n- Bölgedeki yakıt depolama sistemi dolmuş/boşalmış, ne zaman tedarik olacak?\n- Enerji santralimizdeki yakıt kalitesi düşüyor, bunu nasıl düzeltebiliriz?\n- Yakın gelecekte elektrik ve ulaşım için alternatif bir enerji kaynağı bulmamız gerekiyor."
+    },
+    "meslek_jeoloji_muhendisi": {
+        "isim": "Jeoloji Mühendisi",
+        "aciklama": "Günlük İsimler: Jeolog, Jeoloji Mühendisi\nÇözdüğü Sorunlar:\n- Yeni yapılacak bir yapının temel zemini ne kadar sağlam ve güvenli?\n- Bölgede deprem riski var mı, arsa inşaata uygun mu?\n- Bir tünel veya büyük kazı için zeminin yapısı nasıl ve hangi malzemeden oluşuyor?"
+    },
+    "meslek_maden_muhendisi": {
+        "isim": "Maden Mühendisi",
+        "aciklama": "Günlük İsimler: Madencilik Mühendisi, Maden Uzmanı\nÇözdüğü Sorunlar:\n- Yeni bir maden sahasında çıkarımın güvenli bir şekilde yapılmasını sağlamak.\n- Yeraltındaki hangi bölgeden ve hangi yöntemle kaynak çıkarılacağını planlamak.\n- Madencilik faaliyetleri nedeniyle ortaya çıkabilecek yapısal çökme ve jeolojik riskleri analiz etmek."
+    },
+    "meslek_gda_muhendisi": {
+        "isim": "Gıda Mühendisi",
+        "aciklama": "Günlük İsimler: Gıda Uzmanı, Ürün Geliştirme Uzmanı, Gıda Teknolojisti\nÇözdüğü Sorunlar:\n- Evde yaptığım turşu ne kadar süre dayanır ve bozulmaması için ne yapmalıyım?\n- Yeni çıkacak bir gıdanın (örneğin, bitkisel bazlı) tadı ve dokusu nasıl geliştirilir?\n- Alışverişte aldığım yiyeceklerin raf ömrünü uzatmak veya kalitesini düşüren faktörler neler?"
+    },
+    "meslek_endustri_muhendisi": {
+        "isim": "Endüstri Mühendisi",
+        "aciklama": "Günlük İsimler: Süreç Mühendisi, Operasyon Uzmanı, Sistem Analisti\nÇözdüğü Sorunlar:\n- Bir üretim hattındaki belirli bir aşama sürekli tıkanıyor ve hız düşüyor.\n- Çalışanların en çok zaman kaybetmesine neden olan ve gereksiz bürokrasi yaratan adımlar var.\n- Depodaki ürün yerleşim düzeni yanlış olduğu için arama yapmak çok fazla zaman alıyor ve malzeme kaybı yaşanıyor."
+    },
+    "meslek_tekstil_muhendisi": {
+        "isim": "Tekstil Mühendisi",
+        "aciklama": "Günlük İsimler: Tekstil Uzmanı, Kumaş Mühendisi\nÇözdüğü Sorunlar:\n- Spor kıyafeti almam lazım ama terlediğimde rahat edemiyorum, nefes alan bir malzeme bulmalı.\n- Bu giysi sürekli buruşuyor, ütü gerektirmeyen, pratik bir kumaş önerir misiniz?\n- Yağ veya makyaj gibi lekelerin kolayca çıkacağı, dayanıklı kumaşlar geliştirmemiz gerekiyor."
+    },
+    "meslek_orman_muhendisi": {
+        "isim": "Orman Mühendisi",
+        "aciklama": "Günlük İsimler: Ormancı, Orman Uzmanı, Orman Mühendisi\nÇözdüğü Sorunlar:\n- Yağışlı mevsimde yamaçlardaki toprak kayması riskini minimize etmek gerekiyor.\n- Bir bölgede yasa dışı ağaç kesimi yapıldığını tespit ettik, durdurmamız gerekiyor.\n- Ormanda bir hastalık yayılıyor, ağaçların sağlığını koruyacak tedbirler almalıyız."
+    },
+    "meslek_su_urunleri_muhendisi": {
+        "isim": "Su Ürünleri Mühendisi",
+        "aciklama": "Günlük İsimler: Su Ürünleri Uzmanı, Akuakültür Mühendisi\nÇözdüğü Sorunlar:\n- Nasıl daha az maliyetle ve daha hızlı kilo alacak, sağlıklı ve lezzetli balıklar yetiştirebilirim?\n- Çevresel etkileri en aza indirerek, bölgenin doğal ekosistemine zarar vermeden balık üretimi yapmalıyız.\n- Tanklardaki su kalitesi kötüleşiyor, balıklar hastalanıyor. Bu döngüyü nasıl düzeltebilirim?"
+    },
+    "meslek_serbest_muhasebeci": {
+        "isim": "Serbest Muhasebeci",
+        "aciklama": "Günlük İsimler: Muhasebeci, Mali Müşavir, Vergi Danışmanı\nÇözdüğü Sorunlar:\n- Geçen yılki şirket karımı veya zararımı resmi olarak hesaplatmam gerekiyor.\n- Yeni açtığım işin yasal defterlerini tutmayı bilmiyorum.\n- Ödenecek vergi miktarının fazla olup olmadığını kontrol etmek istiyorum."
+    },
+    "meslek_yatrm_bankacs": {
+        "isim": "Yatırım Bankacısı",
+        "aciklama": "Günlük İsimler: Bankacı, Finans Danışmanı\nÇözdüğü Sorunlar:\n- Şirketimiz çok büyüdü ama yeni tesisler için banka kredisi alamıyoruz.\n- Rakibimizle birleşmeyi düşünüyoruz ama anlaşmanın finansal yapısını ve değerlemesini bilemiyoruz.\n- Elde ettiğimiz yatırım fonlarını en kârlı şekilde nasıl dağıtacağımızı veya satacağımızı planlamamız gerekiyor."
+    },
+    "meslek_risk_yonetimi_uzman": {
+        "isim": "Risk Yönetimi Uzmanı",
+        "aciklama": "Günlük İsimler: Risk Analisti, Kriz Planlama Uzmanı, İş Sürekliliği Danışmanı\nÇözdüğü Sorunlar:\n- Büyük bir veri sızıntısı oldu, yasal yaptırımlarla karşılaşmaktan korkuyoruz.\n- Yeni bir pazara açılırken olası ekonomik dalgalanmalar işimizi aksırsa ne yapacağımızı bilmiyoruz.\n- Fabrika ekipmanında beklenmedik bir arıza yaşanırsa üretim tamamen duracak."
+    },
+    "meslek_portfoy_yoneticisi": {
+        "isim": "Portföy Yöneticisi",
+        "aciklama": "Günlük İsimler: Yatırım Danışmanı, Fon Yöneticisi, Finansal Danışman\nÇözdüğü Sorunlar:\n- Bütün birikimimi tek bir hisseye yatırmak çok riskli mi, yoksa daha mı güvenli bir yol var?\n- Emeklilik hedefim var ama şu anki gelirimle o parayı nasıl büyütürüm ve ne zaman hazır olurum?\n- Yatırım yapabileceğim bir alan buldum ama bu yatırım beni beklediğim getiriyi sağlar mı, yoksa dolandırıcı mı?"
+    },
+    "meslek_kripto_para_analisti": {
+        "isim": "Kripto Para Analisti",
+        "aciklama": "Günlük İsimler: Kripto Uzmanı, Blockchain Analisti, Dijital Varlık Analisti\nÇözdüğü Sorunlar:\n- Elimizdeki yatırımın bir sonraki ay ne kadar değer kaybetme riski var?\n- Yeni çıkacak bir coin'in gerçekten başarılı bir proje olup olmadığını anlamak istiyorum.\n- Hangi kripto varlığı almalıyız ki, piyasa düşüşünden sonra hızla toparlansın?"
+    },
+    "meslek_aktuer": {
+        "isim": "Aktüer",
+        "aciklama": "Günlük İsimler: Risk Analisti, Sigorta Uzmanı, Hesaplayıcı\nÇözdüğü Sorunlar:\n- Evimize büyük bir deprem olursa, sigorta primleri ne kadar olmalı ki bizi güvende tutsun?\n- Emeklilik fundum, 30 yıl boyunca artan enflasyon ve yaşam süresi uzamasına karşı yeterli olacak mı?\n- Bir sağlık sigortası yaptırırken, ilerleyen yaşlardaki olası büyük hastalık masraflarını doğru fiyatlandırmak gerekiyor."
+    },
+    "meslek_kredi_tahsis_uzman": {
+        "isim": "Kredi Tahsis Uzmanı",
+        "aciklama": "Günlük İsimler: Kredi Uzmanı, Kredi Analisti\nÇözdüğü Sorunlar:\n- Hayaldeki evi almak istiyorum ancak peşinatım yetmiyor, ne kadar kredi çekebileceğimi öğrenmek.\n- Yeni bir araba almak istiyorum ama tüm parayı nakit alamıyorum, uygun taksit planını bulmak.\n- Bir ticari yatırım yapacağım, bu riskli sermayeyi banka ne ölçüde kredi olarak değerlendiriyor?"
+    },
+    "meslek_oyuncu": {
+        "isim": "Oyuncu",
+        "aciklama": "Günlük İsimler: Oyuncu, Sanatçı\nÇözdüğü Sorunlar:\n- Günlük hayatımın bana çok sıkıcı geldiğini hissediyorum, kaçış yolu bulmam gerekiyor.\n- Bir duyguyu (kızgınlık, aşk, pişmanlık) seyircinin tam olarak anlamasını sağlamakta zorlanıyorum.\n- Farklı çağlarda veya sosyal sınıflarda yaşamayı merak ediyorum ama bunu deneyimleyemiyorum."
+    },
+    "meslek_yonetmen": {
+        "isim": "Yönetmen",
+        "aciklama": "Günlük İsimler: Film Yönetmeni, Dizi Yönetmeni\nÇözdüğü Sorunlar:\n- Ana karakterin bu durumda neden böyle davrandığını izleyici anlamıyor.\n- Filmin temposu düşüyor, hikayenin bir sonraki aşamaya geçmesi gerekiyor.\n- Bir sahnenin duygusal tonu (gerilim, komedi vb.) eksik kalmış, izleyiciyi yakalayamıyor."
+    },
+    "meslek_senarist": {
+        "isim": "Senarist",
+        "aciklama": "Günlük İsimler: Senaryo Yazarı, Hikaye Yazarı, Yapım Senaristi\nÇözdüğü Sorunlar:\n- Dizimizin ana çatışması belirsiz, izleyici ne hakkında olduğumuzu anlamıyor.\n- Karakterimiz bir anda öyle bir şey yaptı ki, bu davranışının gerekçesi verilmedi.\n- Hikaye çok dağınık, nerede gerilim yaratacağımızı veya zirveye nasıl çıkacağımızı bilemiyoruz."
+    },
+    "meslek_tiyatro_oyuncusu": {
+        "isim": "Tiyatro Oyuncusu",
+        "aciklama": "Günlük İsimler: Sanatçı, Sahne Sanatçısı\nÇözdüğü Sorunlar:\n- Arkadaşlarımın doğum günü için neşe ve unutulmaz bir anı yaratmamız gerekiyor.\n- Bir karakterin iç çatışmasını veya derin bir duygusunu kelimelerden çok fiziksel bir tepkiyle anlatmamız lazım.\n- Bir etkinlikte eğlenceli ve spontane bir sürpriz performans sergilememiz lazım."
+    },
+    "meslek_koreograf": {
+        "isim": "Koreograf",
+        "aciklama": "Günlük İsimler: Dans Koreografı, Dans Eğitmeni, Dans Düzenleyici\nÇözdüğü Sorunlar:\n- Grubun sahnede ne yapacağı konusunda fikir birliğine varamıyor, hareketler birbirinden kopuk kalıyor.\n- Yaptıkları dans hareketleri, anlatılmak istenen hikayenin veya duygusal yoğunluğun altını çizemiyor.\n- Belirli bir tema veya ritim üzerine, herkesin eş zamanlı hareket edeceği karmaşık bir rutin oluşturulması gerekiyor."
+    },
+    "meslek_heykeltras": {
+        "isim": "Heykeltıraş",
+        "aciklama": "Günlük İsimler: Heykel Yapıcı, Taş Oyucusu\nÇözdüğü Sorunlar:\n- Evime biraz sanat havası katacak, oturma odasına koyabileceğim bir obje lazım.\n- Bir hediye için, özel ve anlamlı, elle yapılmış bir anı arıyorum.\n- Mimari bir köşeyi ya da bahçe alanını, görsel olarak zenginleştirecek bir parça istiyorum."
+    },
+    "meslek_ressam": {
+        "isim": "Ressam",
+        "aciklama": "Günlük İsimler: Ressam, Sanatçı\nÇözdüğü Sorunlar:\n- Oturma odamızdaki duvarlar çok boş kalmış, dekoratif bir şeye ihtiyacımız var.\n- Yakın bir akrabamın yüzünü, hatıra olarak güzel bir tablo yapmam gerekiyor.\n- Yeni aldığımız bu büyük kanvası nasıl bir renkle veya desenle tamamlayacağımız konusunda fikir lazım."
+    },
+    "meslek_illustrator": {
+        "isim": "İllüstratör",
+        "aciklama": "Günlük İsimler: Çizer, Görsel Sanatçı\nÇözdüğü Sorunlar:\n- Yayınlayacağım kitabın konusunu anlaşılır kılacak karakter veya arka plan çizimlerine ihtiyacım var.\n- Şirketim için hazırladığım tanıtım broşüründeki ürün adımlarını görselleştirip dikkat çekici hale getirmem gerekiyor.\n- Web sitemin belirli bölümleri için standart stok fotoğraflarla anlatılamayacak, özgün ve eğlenceli çizimlere ihtiyacım var."
+    },
+    "meslek_moda_tasarmcs": {
+        "isim": "Moda Tasarımcısı",
+        "aciklama": "Günlük İsimler: Giyim Tasarımcısı, Moda Tasarımcısı\nÇözdüğü Sorunlar:\n- Bu kıyafeti beğendim ama belimden ve kolumdan yeniden kesilmesi gerekiyor.\n- Yaklaşan düğün teması için herkesin uyum sağlayacağı, farklı ama aynı tonda bir giysi bulamıyorum.\n- Gardırobumdaki eşyaları daha modern ve güncel bir tarza nasıl dönüştürebilirim?"
+    },
+    "meslek_tak_tasarmcs": {
+        "isim": "Takı Tasarımcısı",
+        "aciklama": "Günlük İsimler: Kuyumcu, Takı Ustası\nÇözdüğü Sorunlar:\n- Nişanlım için hem kişisel hem de tamamen ona özel bir yüzük tasarlatmak istiyorum.\n- Bir aile yadigarı olan eski ve yıpranmış mücevheri restore ettirmek zorundayım.\n- Kombinime çok yakışacak, ama piyasada benzeri olmayan bir kolye tasarlatmak istiyorum."
+    },
+    "meslek_icerik_ureticisi": {
+        "isim": "İçerik Üreticisi",
+        "aciklama": "Günlük İsimler: Blogger, Dijital İçerik Uzmanı, Metin Yazarı, Video Yapımcısı\nÇözdüğü Sorunlar:\n- Bir ürünün/hizmetin faydalarını sadece listelemek yerine, insanların duygusal olarak bağ kuracağı bir hikayeye dönüştürememek.\n- Markanın veya kişinin internette dikkat çekmesi için sürekli, ilgi çekici ve tutarlı içerik üretememesi.\n- Karmaşık bir konuyu, sıradan bir insanın kolayca anlayabileceği akıcı ve anlaşılır bir dille anlatamamak."
+    },
+    "meslek_twitch_yayncs": {
+        "isim": "Twitch Yayıncısı",
+        "aciklama": "Günlük İsimler: Yayıncı, Streamer, Canlı Yayıncı\nÇözdüğü Sorunlar:\n- Sıkıcı bir akşamda ne izleyeceğime karar veremiyorum.\n- Evde tek başıma kalmak yerine sanal bir arkadaşlık/sohbet ortamı arıyorum.\n- Oynaması zor veya karmaşık bir oyunu eğlenerek izlemek istiyorum."
+    },
+    "meslek_podcaster": {
+        "isim": "Podcaster",
+        "aciklama": "Günlük İsimler: Podcast yapımcısı, Ses içerik üreticisi, İçerik yayıncısı\nÇözdüğü Sorunlar:\n- Boş zamanlarımda, araba kullanırken veya spor yaparken keyifli ve bilgilendirici bir şey dinlemek istiyorum.\n- Belirli bir konu hakkında uzman görüşlerini, tek bir yerde toparlanmış bir şekilde öğrenmek istiyorum.\n- İlgi alanıma yakın insanlarla sanal ortamda bir bağ kurmak ve sohbet etmek istiyorum."
+    },
+    "meslek_seslendirmen": {
+        "isim": "Seslendirmen",
+        "aciklama": "Günlük İsimler: Seslendirme Sanatçısı, Anlatıcı, Seslendiren\nÇözdüğü Sorunlar:\n- Şirketin hazırladığı eğitici video izleyicinin dikkatini çekecek bir anlatıma ihtiyacı var.\n- Hazırlanan reklam metninin etkili ve akılda kalıcı bir sese kavuşması gerekiyor.\n- Yayınlanacak bir podcast veya podcast serisinin profesyonel ve tutarlı bir sesi olmalı."
+    },
+    "meslek_kaynakc": {
+        "isim": "Kaynakçı",
+        "aciklama": "Günlük İsimler: Metal Ustası, Kaynakçı\nÇözdüğü Sorunlar:\n- Balkondaki korkuluk desteği yerinden çıkacak gibi, tutunacak bir yeri yok.\n- Yeni kurulacak metal raf ünitesi için iki parçayı birleştirmemiz gerekiyor.\n- Bahçedeki demir kapıdaki yıpranmış menteşeler yerine sağlam bir bağlantı yapılacak."
+    },
+    "meslek_torna_ustas": {
+        "isim": "Torna Ustası",
+        "aciklama": "Günlük İsimler: Tornacı, Metal İşlemci, Makine Teknisyeni\nÇözdüğü Sorunlar:\n- Endüstriyel bir makinenin ekseni kırıldı ve tam ölçüde yeni bir parça yapılması gerekiyor.\n- Bir cihazın parçası standart boyutta yok, mevcut deliğe tam oturan özel bir braket yapılmalı.\n- Motorumun veya makinemizin içine takılacak, hassas ölçüde özel bir bağlantı miline ihtiyacımız var."
+    },
+    "meslek_cnc_operatoru": {
+        "isim": "CNC Operatörü",
+        "aciklama": "Günlük İsimler: Makine Operatörü, Takım Tezgahı Operatörü\nÇözdüğü Sorunlar:\n- Bir makineye takılacak olan yedek parça, orijinal ölçülere birebir uymuyor ve tamir edilmesi gerekiyor.\n- Çok hassas bir tolerans aralığında, özel geometride metal bir bağlantı elemanı üretilmesi gerekiyor.\n- Üretilmesi gereken aynı desende, yüzlerce adet, kusursuz ve aynı boyutta bir metal parça elde etmek gerekiyor."
+    },
+    "meslek_demirci": {
+        "isim": "Demirci",
+        "aciklama": "Günlük İsimler: Demircilik Ustas, Metal Ustası, Demirci\nÇözdüğü Sorunlar:\n- Bahçedeki paslanmış ve sallanan korkulukları tamir ettirmem gerekiyor.\n- Kapımızın menteşesi eskidi ve ses çıkarmaya başladı, değiştirilmesi lazım.\n- Mevcut tırabağımızla uyumlu, özel ölçülerde bir metal tutamak yapılmasını istiyorum."
+    },
+    "meslek_camc": {
+        "isim": "Camcı",
+        "aciklama": "Günlük İsimler: Camcı, Cam Ustası\nÇözdüğü Sorunlar:\n- Bahçedeki camdan bir pencere kırıldı ve acilen yerinin doldurulması gerekiyor.\n- Yeni bir balkon camı takılacak, mevcut camlar uyumsuz.\n- Pencere boşluklarından kışın soğuk hava/nem sızıyor."
+    },
+    "meslek_seramik": {
+        "isim": "Seramik",
+        "aciklama": "Günlük İsimler: Seramikçi, Fayans Ustası, Çini Ustası\nÇözdüğü Sorunlar:\n- Banyodaki bir fayans döşemesi yerinden çıkmış veya çatlamış.\n- Mutfak tezgah arkasına yeni dekoratif karolar yapıştırmamız gerekiyor.\n- Köşede duran kırılmış bir seramik vazo veya tabak tamir edilecek."
+    },
+    "meslek_alcpan_ustas": {
+        "isim": "Alçıpan Ustası",
+        "aciklama": "Günlük İsimler: Alçı Usta, Tadilat Ustası, Duvar Ustası\nÇözdüğü Sorunlar:\n- Büyük bir odada mahremiyet sağlamak için yeni bir bölme duvar çekmemiz gerekiyor.\n- Yağmur suyu sızıntısı nedeniyle tavan alçıpanı yer yer çöküntü yaptı, onarımı yapılacak.\n- Yeni yerleştirilecek dolap için duvarda bir boşluk (niş) açılması gerekiyor."
+    },
+    "meslek_izolasyon_ustas": {
+        "isim": "İzolasyon Ustası",
+        "aciklama": "Günlük İsimler: Yalıtımcı, İzolasyoncu, Klima/Isı Ustası\nÇözdüğü Sorunlar:\n- Kışın pencere ve kapılardan sürekli soğuk hava sızması.\n- Evdeki ısınma maliyetleri çok yüksek, sanki ısı kaçırıyormuşuz gibi hissediyoruz.\n- Bodrum katımızda nem birikmesi ve küf oluşumu var, hava çok nemli."
+    },
+    "meslek_havalandrma_ustas": {
+        "isim": "Havalandırma Ustası",
+        "aciklama": "Günlük İsimler: Havalandırma Teknikeri, HVAC Ustası, Hava Kanalları Tesisatçısı\nÇözdüğü Sorunlar:\n- Banyo ve mutfakta nem birikmesi sonucu küf oluşması.\n- Ortam havasının durgunlaşması ve havasız kokması.\n- Klima veya ısıtma sisteminin doğru çalışmaması ve yetersiz hava akışı."
+    },
+    "meslek_gunes_enerjisi_ustas": {
+        "isim": "Güneş Enerjisi Ustası",
+        "aciklama": "Günlük İsimler: Solar Usta, Güneş Enerjisi Kurulumcusu, Panel Teknisyeni\nÇözdüğü Sorunlar:\n- Elektrik kesildiğinde, evin temel ihtiyaçları (ışık, su pompası) çalışmasını istiyorum.\n- Artan elektrik faturası yüzünden enerji maliyetlerimi düşürmek istiyorum.\n- İnternet bağlantısı olmayan uzak bir şantiyeye elektrik getirmemiz gerekiyor."
+    },
+    "meslek_jenerator_tamircisi": {
+        "isim": "Jeneratör Tamircisi",
+        "aciklama": "Günlük İsimler: Jeneratörci, Güç Ünitesi Teknikeri\nÇözdüğü Sorunlar:\n- Elektrik kesildi ve yedek jeneratör hiç çalışmıyor veya alarm veriyor.\n- Bina elektrik kesintisine karşı enerji ihtiyacı için bir sistem kurulumu gerekiyor.\n- Jeneratör çalışıyor ama evin/iş yerinin elektrik şebekesine geçiş (transfer) sistemi bozulmuş."
+    },
+    "meslek_bisiklet_tamircisi": {
+        "isim": "Bisiklet Tamircisi",
+        "aciklama": "Günlük İsimler: Bisiklet Tamircisi, Bisikletçi, Tamirci\nÇözdüğü Sorunlar:\n- Lastiğim tamirhane yolu çıktı, havası kaçtı.\n- Frenlerimi tutmuyor, fren kaliperlerimi ayarlatmalıyım.\n- Vites değiştiremiyorum, arka aktarıcı sürekli atlıyor."
+    },
+    "meslek_motosiklet_tamircisi": {
+        "isim": "Motosiklet Tamircisi",
+        "aciklama": "Günlük İsimler: Motosiklet Ustası, Tamircisi\nÇözdüğü Sorunlar:\n- Motorum sürekli tekliyor ve ritim tutturulamıyor.\n- Ön fren yapınca yeterli tutuşu sağlamıyor veya anormal sesler çıkarıyor.\n- Zincirinde aşınma var ve lastiklerimde patlak olmuş, yolculuğa çıkamıyorum."
+    },
+    "meslek_gemi_kaptan": {
+        "isim": "Gemi Kaptanı",
+        "aciklama": "Günlük İsimler: Kaptan, Deniz Kaptanı\nÇözdüğü Sorunlar:\n- Güçlü akıntılar veya fırtınalı hava koşullarında geminin güvenli rotada ilerlemesini sağlamak.\n- Limana yanaşma manevraları sırasında akıntı veya rüzgar nedeniyle geminin sapmasını engellemek.\n- Yolculuk sırasında gemiye gelen teknik arızalar veya acil durumlar karşısında çözüm üretmek."
+    },
+    "meslek_pilot": {
+        "isim": "Pilot",
+        "aciklama": "Günlük İsimler: Pilot, Uçuş Görevlisi (daha çok genel konuşmada)\nÇözdüğü Sorunlar:\n- Otelden veya şehirden ulaşılması imkansız bir yere gitmemiz gerekiyor.\n- Bavulum çeşme veya başka bir şehre ulaşması gerekiyor.\n- İş seyahatim var ve uçağımızda bir aksaklık çıktı."
+    },
+    "meslek_hostes": {
+        "isim": "Hostes",
+        "aciklama": "Günlük İsimler: Uçuş Görevlisi, Kabin Ekibi Üyesi\nÇözdüğü Sorunlar:\n- Uçuş sırasında bir yolcunun aniden mide bulantısı veya tansiyon düşüklüğü yaşaması.\n- Hava şartları nedeniyle uçağın seyir rotasında yaşanabilecek aksaklıkları ve paniği gidermek.\n- Yaşlı veya hasta bir yolcunun uçağa güvenli bir şekilde yerleşmesine yardımcı olmak."
+    },
+    "meslek_tren_makinisti": {
+        "isim": "Tren Makinisti",
+        "aciklama": "Günlük İsimler: Tren Şoförü, Lokomotif Şoförü\nÇözdüğü Sorunlar:\n- Londra'dan İstanbul'a trenle gidecek çok sayıda yolcu var ama zamanında ulaşım sağlamak gerekiyor.\n- Uzak ve coğrafi yapısı zorlu bir bölgedeki kasabaya ulaşım sağlamak lazım.\n- Şehirlerarası yük taşımacılığı yapacak, büyük tonajlı bir alternatif ulaşım çözümü lazım."
+    },
+    "meslek_tr_soforu": {
+        "isim": "Tır Şoförü",
+        "aciklama": "Günlük İsimler: Kamyon Şoförü, Tır Şoförü\nÇözdüğü Sorunlar:\n- Uzak bir kasabadaki marketin/bakkalın günlük gıda stoğu tükenmek üzere.\n- Yeni inşa edilecek bir şantiyeye büyük yük (çimento, demir vb.) getirilmesi gerekiyor.\n- Fabrikanın üretim bandında takılan ve başka yerde bulunması zor olan kritik yedek parça eksikliği."
+    },
+    "meslek_forklift_operatoru": {
+        "isim": "Forklift Operatörü",
+        "aciklama": "Günlük İsimler: Forklift Operatörü, Depo Elemanı, Malzeme Taşıyıcı\nÇözdüğü Sorunlar:\n- Gelen yeni paletleri depodaki doğru raflara yerleştirmemiz gerekiyor.\n- Sipariş edilen ürünleri, kamyonun yükleme rampasına en uygun şekilde taşımamız gerekiyor.\n- Deponun en yüksek raflarındaki ürünlere ulaşamıyoruz, bir yerleştirme yardımı lazım."
+    },
+    "meslek_kule_vinc_operatoru": {
+        "isim": "Kule Vinç Operatörü",
+        "aciklama": "Günlük İsimler: Vinççi, Vinç Operatörü, Kaldırma Uzmanı\nÇözdüğü Sorunlar:\n- Bina çatısındaki en üst katlara demir veya ağır malzemeyi çıkarmamız gerekiyor.\n- Yerden ulaşılamayacak kadar yüksek bir noktaya büyük cephe panellerini kaldırmamız gerekiyor.\n- Bir kattan diğer kata çok ağır, büyük bir yapısal elemanın hassas bir şekilde transfer edilmesi gerekiyor."
+    },
+    "meslek_ascbas": {
+        "isim": "Aşçıbaşı",
+        "aciklama": "Günlük İsimler: Şef, Aşçı, Mutfak Şefi\nÇözdüğü Sorunlar:\n- Partiye hazırlanan menünün tatları uyumsuz, bir düzenlenmesi gerekiyor.\n- Misafirler için özel diyet (glüten, laktoz) içeren şık bir yemek hazırlamalıyız.\n- Bu restorana \"imza\" olacak, görenin hayran kalacağı yaratıcı bir tabak tasarlamalıyız."
+    },
+    "meslek_barmen": {
+        "isim": "Barmen",
+        "aciklama": "Günlük İsimler: Barmen, Bar Personeli\nÇözdüğü Sorunlar:\n- Belirli bir içeceği (örneğin, doğru oranlarda yapılmış bir Margarita) tek başıma yapamıyorum.\n- Ne içeceğimi bilemiyorum, bu akşamki ruh halime uygun bir öneriye ihtiyacım var.\n- Bir grup arkadaş için özel bir parti punch'ı hazırlamam gerekiyor."
+    },
+    "meslek_barista": {
+        "isim": "Barista",
+        "aciklama": "Günlük İsimler: Kahveci, Barista\nÇözdüğü Sorunlar:\n- Sabah uykusuyla mücadele ediyorum ve hızlı bir enerji takviyesine ihtiyacım var.\n- Özel bir kahve çekirdeği veya demleme yöntemi önerisi almak istiyorum.\n- İş arkadaşlarımla yapılacak kısa molada, özel bir latte/cappuccino ısmarlamak istiyorum."
+    },
+    "meslek_garson": {
+        "isim": "Garson",
+        "aciklama": "Günlük İsimler: Garson, Masa Servis Elemanı\nÇözdüğü Sorunlar:\n- Sipariş ettiğim yemeğin yanlış gelmesi.\n- Masamızın temizlenmesi ve masa düzenlemesi.\n- Dikkatimizi hak etmeden masaya boş içki getirilmesi."
+    },
+    "meslek_sommelier": {
+        "isim": "Sommelier",
+        "aciklama": "Günlük İsimler: Şarap Uzmanı, Şarap Danışmanı\nÇözdüğü Sorunlar:\n- Bu özel kırmızı et yemeğiyle hangi şarabı eşleştirmeliyim?\n- Bu kadar çok şarap çeşidi arasında, grup için en uygun ve herkesin seveceği ne olur?\n- Almış olduğumuz şarapta bozulma var mı, yoksa doğru saklanmamış mı?"
+    },
+    "meslek_pastac": {
+        "isim": "Pastacı",
+        "aciklama": "Günlük İsimler: Fırıncı, Ekmekçi, Pastacı\nÇözdüğü Sorunlar:\n- Annemin 50. yaş günü için ne tür bir pasta yapacağım konusunda yardıma ihtiyacım var.\n- Öğleden sonra misafirlere ikram edebileceğim hızlı ve güzel bir tatlı lazım.\n- Ekmeğimiz sabah olduğu gibi bayatlamış ve kahvaltılık olarak farklı bir şey bulamadık."
+    },
+    "meslek_kasap": {
+        "isim": "Kasap",
+        "aciklama": "Günlük İsimler: Kasap, Etçi\nÇözdüğü Sorunlar:\n- Akşam yemeği için ailecek uygun, taze kesim et sağlamak.\n- Belirli bir tarif veya yemek türü için (örneğin köfte, güveç) en doğru et parçasını temin etmek.\n- Satın alınan etin tazeliği ve hijyenik standartları konusunda bilgi almak."
+    },
+    "meslek_frnc": {
+        "isim": "Fırıncı",
+        "aciklama": "Günlük İsimler: Ekmekçi, Fırıncı\nÇözdüğü Sorunlar:\n- Sabah ekmeğimiz bayatlamış, taze bir somun almalıyız.\n- Parti için özel, güzel bir kek veya tatlı poğaça almamız gerekiyor.\n- Akşam yemeği için pide veya büyük bir ekmek lazım ama hiç ekmek yok."
+    },
+    "meslek_balkc": {
+        "isim": "Balıkçı",
+        "aciklama": "Günlük İsimler: Balıkçı, Deniz Balıkçısı\nÇözdüğü Sorunlar:\n- Akşam yemeği için güncel ve taze deniz ürünü temin etmemiz gerekiyor.\n- Marketten alınan balıklar çok küçük/yağsız, daha kaliteli bir av lazım.\n- Belirli bir miktarda (örneğin, istiridye veya midye) ticari amaçlı toplamanız gerekiyor."
+    },
+    "meslek_ciftci": {
+        "isim": "Çiftçi",
+        "aciklama": "Günlük İsimler: Çiftçi, Tarımcı, Tarlacı\nÇözdüğü Sorunlar:\n- Bu sene ekilen buğdayda bir yaprak hastalığı başladı, ne yapmalıyım?\n- Bahçedeki sebzelerin suyu ne sıklıkta alması gerekiyor?\n- Kışlık yemiğim az kaldı, hayvanlarımı neyle besleyebilirim?"
+    },
+    "meslek_arc": {
+        "isim": "Arıcı",
+        "aciklama": "Günlük İsimler: Arıcı, Arı Uzmanı\nÇözdüğü Sorunlar:\n- Peteklerimdeki arı kolonisi hastalığa yakalanmış veya çok azaldı.\n- Bahçemde ekili sebzelerin verimli tozlanmaya ihtiyacı var.\n- Üretilen bal miktarı fazla geldi ve petekleri yönetmem gerekiyor."
+    },
+    "meslek_serac": {
+        "isim": "Seracı",
+        "aciklama": "Günlük İsimler: Seracı, Seraci, Bitki Yetiştiricisi\nÇözdüğü Sorunlar:\n- Kış mevsiminde bile taze, kaliteli sebze ve çiçek bulamıyorum.\n- Hava koşulları yüzünden bitkilerim zarar görecek diye endişeleniyorum.\n- Belirli zamanlarda marketlerde istediğim türde (örneğin, domates veya biber) ürün bulunmaması."
+    },
+    "meslek_peyzaj_bahcvan": {
+        "isim": "Peyzaj Bahçıvanı",
+        "aciklama": "Günlük İsimler: Bahçıvan, Peyzaj Düzenleyici, Bahçe Uzmanı\nÇözdüğü Sorunlar:\n- Bahçemizdeki alanlar çok dağınık, tekdüze ve boş görünüyor.\n- Bahçemizde mevsimlere uygun, görsel açıdan zengin bir tasarım yok.\n- Çimlerimiz sürekli sararıyor ve toprağın yapısı düzeltilemiyor."
+    },
+    "meslek_dovmeci": {
+        "isim": "Dövmeci",
+        "aciklama": "Günlük İsimler: Dövmeci, Tattoo Sanatçısı\nÇözdüğü Sorunlar:\n- Bedenimde kalıcı bir anıyı veya sembolü taşımak istiyorum.\n- Çok eski ve solmuş dövmelerimi canlandırmak ve yenilemek istiyorum.\n- Boynuma/bileğime bir piercing yaptırmak için güvenilir bir yer arıyorum."
+    },
+    "meslek_piercing_uzman": {
+        "isim": "Piercing Uzmanı",
+        "aciklama": "Günlük İsimler: Piercer, Piercing Uygulayıcısı\nÇözdüğü Sorunlar:\n- Yeni bir piercing yaptırmak istiyorum ama hijyen ve güvenilirlik konusunda endişeliyim.\n- Kulaklarımda veya vücudumda bir piercingde enfeksiyon belirtisi (kızarıklık, akıntı) var.\n- Piercing takımı çok sıkı veya çok gevşek oldu, düzeltilmesi gerekiyor."
+    },
+    "meslek_masor": {
+        "isim": "Masör",
+        "aciklama": "Günlük İsimler: Masajcı, Masör\nÇözdüğü Sorunlar:\n- Gün boyu masa başında oturmaktan kaynaklanan boyun ve omuz ağrısı.\n- Spor veya ağır bir fiziksel aktivite sonrası kaslarda oluşan sertlik ve ağrılar.\n- Uzun süreli stres veya uykusuzluk nedeniyle gerilen ve gevşmeyen kas gerginlikleri."
+    },
+    "meslek_kiropraktor": {
+        "isim": "Kiropraktör",
+        "aciklama": "Günlük İsimler: Omurga Uzmanı, Ağrı Terapisti\nÇözdüğü Sorunlar:\n- Sürekli devam eden ve kamburluğa neden olan bel ağrılarım var.\n- Boyun kaslarım aşırı tutuluyor ve bu yüzden sık sık baş ağrısı çekiyorum.\n- Uzun süre yanlış pozisyonda oturmaktan kaynaklanan bacak ve kalçadaki şok ağrılarım var."
+    },
+    "meslek_osteopat": {
+        "isim": "Osteopat",
+        "aciklama": "Günlük İsimler: Osteopati Uzmanı, Manuel Terapi Uzmanı, Fizik Tedavi Uzmanı (halk arasında)\nÇözdüğü Sorunlar:\n- Uzun süre bilgisayar başında çalışmaktan boyun ve omuzlarım sürekli ağrıyor.\n- Belimde bir sızı var ve eğilirken/uzanırken zorlanıyorum.\n- Dizimde eskiden bir yaralanma oldu, şimdi hareket açıklığım kısıtlı."
+    },
+    "meslek_akupunktur_uzman": {
+        "isim": "Akupunktur Uzmanı",
+        "aciklama": "Günlük İsimler: Akupunkturist, Çin Tıbbı Terapisti\nÇözdüğü Sorunlar:\n- Uzun süre masa başında çalışmaktan boyun ve omuz ağrısı çekiyorum.\n- Stres kaynaklı mide bulantıları veya sindirim sistemi düzensizlikleri yaşıyorum.\n- Uyku düzenim bozuk, sürekli uykusuzluk çekiyorum."
+    },
+    "meslek_bioenerji_uzman": {
+        "isim": "Bioenerji Uzmanı",
+        "aciklama": "Günlük İsimler: Yenilenebilir Enerji Uzmanı, Yeşil Enerji Danışmanı\nÇözdüğü Sorunlar:\n- İşletmemizin enerji maliyetleri çok yükseldi, fosil yakıt bağımlılığını nasıl azaltabiliriz?\n- Köyümüzde biriken tarımsal atıklarla biyogaz üreterek elektrik elde etmek istiyoruz.\n- Evimizde daha az karbon ayak iziyle yaşamak için hangi temiz enerji sistemlerini kurmalıyız?"
+    },
+    "meslek_dedektif": {
+        "isim": "Dedektif",
+        "aciklama": "Günlük İsimler: Özel Dedektif, Gizem Çözücü\nÇözdüğü Sorunlar:\n- Eşimin gizli bir hesabı ya da nerede olduğundan şüpheliyim.\n- Bir evden değerli bir sanat eseri veya takı çalındı, ne zaman ve nasıl çalındığını öğrenmek istiyorum.\n- İş arkadaşımın ya da tanıdığımın geçmişte yaptığı bir yanlış veya sakladığı bir bilgi var mı?"
+    },
+    "meslek_guvenlik_gorevlisi": {
+        "isim": "Güvenlik Görevlisi",
+        "aciklama": "Günlük İsimler: Güvenlik, Bekçi\nÇözdüğü Sorunlar:\n- Siteye yabancı birinin izinsiz girmeye çalıştığını fark ettiniz.\n- Gece geç saatte bir gürültü veya kavga sesi duydunuz.\n- Bir eşyanız (araba, bisiklet, paket) yerine konulmasına rağmen güvenli bir yerde olduğundan emin olmak istiyorsunuz."
+    },
+    "meslek_yakn_koruma": {
+        "isim": "Yakın Koruma",
+        "aciklama": "Günlük İsimler: Bodyguard, Özel Güvenlik Görevlisi, Kişisel Koruma\nÇözdüğü Sorunlar:\n- Çok kalabalık bir etkinlikte hedef kişinin kimliğini ve güvenli geçişini sağlamak.\n- Seyahat sırasında aracın durduğu noktada veya hareket halindeyken olası fiziksel tehditlere karşı önlem almak.\n- Tanınmaması gereken veya riskli ortamlarda, kişinin güvenli bir şekilde bir yerden diğerine ulaşmasını sağlamak."
+    },
+    "meslek_antikac": {
+        "isim": "Antikacı",
+        "aciklama": "Günlük İsimler: Antika Satıcısı, Antika Mağazası\nÇözdüğü Sorunlar:\n- Yeni dekore edeceğim odaya karakter katacak, fabrikasyon olmayan eşyalar bulmam gerekiyor.\n- Büyükannemden kalma, ne olduğu belli olmayan eski bir eşyanın değerini öğrenmek istiyorum.\n- Eski bir mobilyanın zamanla bozulması nedeniyle onu profesyonelce restore ettirecek bir usta arıyorum."
+    },
+    "meslek_saat_tamircisi": {
+        "isim": "Saat Tamircisi",
+        "aciklama": "Günlük İsimler: Saatçi, Saat Tamircisi\nÇözdüğü Sorunlar:\n- Mekanik saatim aniden durdu, tekrar çalışmasını istiyorum.\n- Yeni aldığım kol saatim sürekli hızlı gidiyor, zaman ayarı yapılması gerekiyor.\n- Cep saati mekanizması çok kirli, yağımla temizlenip bakılması lazım."
+    },
+    "meslek_ayakkab_tamircisi": {
+        "isim": "Ayakkabı Tamircisi",
+        "aciklama": "Günlük İsimler: Kunduracı, Ayakkabı Ustası\nÇözdüğü Sorunlar:\n- Favori ayakkabımın topuğu yıprandı, tekrar sağlamlaştırması gerekiyor.\n- Ayakkabı bağcığı koptu veya ayakkabıya kopan bir dikiş var.\n- Ayakkabının tabanı ayrıldı, su sızıyor ve yapıştırılması lazım."
+    },
+    "meslek_kumas_dokumac": {
+        "isim": "Kumaş Dokumacı",
+        "aciklama": "Günlük İsimler: Dokumacı, Tekstil Ustası, Kumaş Yapımcısı\nÇözdüğü Sorunlar:\n- Oturma odasının pencere kısımları için uygun, ışığı filtreleyecek perde kumaşı gerekiyor.\n- Köşedeki yırtık halının yerine, oturma grubuna uygun desenli yeni bir kumaş elde etmek istiyoruz.\n- El yapımı bir eşarp veya özel bir elbise için dayanıklı, istediğimiz tonda bir kumaş bulunması gerekiyor."
+    },
+    "meslek_gelinlik_tasarmcs": {
+        "isim": "Gelinlik Tasarımcısı",
+        "aciklama": "Günlük İsimler: Gelinlik Tasarımcısı, Gelinlik Yapımcısı\nÇözdüğü Sorunlar:\n- Düğünüm konseptine ve mekanına tamamen uyan, benzersiz bir gelinlik tasarlatmak.\n- Bedenime kusursuz oturan, fotoğraf çekimlerinde harika duracak bir model bulmak.\n- Hayal ettiğim ancak hayata geçiremediğim o \"bir numara\" elbiseyi yaratmak."
+    },
+    "meslek_cevirmen": {
+        "isim": "Çevirmen",
+        "aciklama": "Günlük İsimler: Tercüman, Çevirmen\nÇözdüğü Sorunlar:\n- Yurt dışında önemli bir görüşme yapacak ama yerel dili konuşamıyor.\n- Üniversiteden alması gereken not dökümünü (transkript) resmi olarak çevirtmesi gerekiyor.\n- Bir yabancı belgedeki (hukuki sözleşme, makale vb.) kritik bir ifadenin doğru anlamını çözmesi gerekiyor."
+    },
+    "meslek_noter": {
+        "isim": "Noter",
+        "aciklama": "Günlük İsimler: Noter, Resmi Belge Yetkilisi\nÇözdüğü Sorunlar:\n- Ev/arsa satış sözleşmesini yasal olarak tamamlatmamız gerekiyor.\n- Yurt dışında bulunacağım için bir yakınıma vekalet verme işlemlerini yaptırmam lazım.\n- Birbirimize karşı hukuki bağlayıcılığı olan bir anlaşma yapmamız gerekiyor."
+    },
+    "meslek_turizm_rehberi": {
+        "isim": "Turizm Rehberi",
+        "aciklama": "Günlük İsimler: Tur Rehberi, Gezi Rehberi\nÇözdüğü Sorunlar:\n- Tarihi bir yapının veya semtin hikayesini ve anlamını anlamakta zorlanmak.\n- Karmaşık ulaşım ağı içinde (otobüs, tramvay vb.) doğru rotayı bulamamak.\n- Turistik kalabalıkta, yerel halkın bildiği gizli bir mekan (restoran, kafe) bulmak."
+    },
+    "meslek_hal_ykamac": {
+        "isim": "Halı Yıkamacı",
+        "aciklama": "Günlük İsimler: Halı Temizleyici, Halı Yıkama Uzmanı\nÇözdüğü Sorunlar:\n- Evcil hayvan kazası yaptırdık, halıda kötü bir koku ve leke kaldı.\n- Misafirler gelmeden önce derin bir temizlik yaparak halıyı ilk günkü gibi göstermek istiyorum.\n- Günlük vakumlama ile çıkmayan, halının dibindeki kir ve alerjen birikintileri."
+    },
+    "meslek_cam_silecegi": {
+        "isim": "Cam Sileceği",
+        "aciklama": "Günlük İsimler: Silecek, Cam Silecek\nÇözdüğü Sorunlar:\n- Camları yıkadıktan sonra kalan su lekelerini ve çizgileri gidermek.\n- Yüzeyde biriken yağ ve toz kalıntılarını tamamen temizleyerek pırıl pırıl bir görünüm elde etmek.\n- Yağmur veya temizlik sonrası cam yüzeyindeki aşırı nemi hızla uzaklaştırmak."
+    },
+    "meslek_oto_ykamac": {
+        "isim": "Oto Yıkamacı",
+        "aciklama": "Günlük İsimler: Araba Yıkamacısı, Oto Yıkamacısı\nÇözdüğü Sorunlar:\n- Arabanın genel kir, toz ve çamur birikimi.\n- Gövdeye inatçı kuş pisliği, reçine veya yağ lekelerinin yapışması.\n- İç mekanda zamanla biriken toz ve kötü kokular."
+    },
+    "meslek_oto_lastikci": {
+        "isim": "Oto Lastikçi",
+        "aciklama": "Günlük İsimler: Lastikçi, Oto Lastik Servisi\nÇözdüğü Sorunlar:\n- Arabanın lastiği yolda patladı, hızla bir yama veya yedek gerekiyor.\n- Lastiklerim eşit aşınmıyor, bu lastikler doğru ayarda mı?\n- Direksiyonu kullanırken titreşim hissediyorum, lastik balansını yaptırmam lazım."
+    },
+    "meslek_tuning_ustas": {
+        "isim": "Tuning Ustası",
+        "aciklama": "Günlük İsimler: Oto Mekaniker, Araç Ustası, Motorcu\nÇözdüğü Sorunlar:\n- Arabam çok yavaşladı, sanki gücü kalmadı gibi hissediyorum.\n- Egzozdan normalden daha çok duman çıkıyor ve sürekli vuruntu yapıyor.\n- Arabanın sesini ve görünümünü daha sportif hale getirmek istiyorum ama nereden başlayacağımı bilmiyorum."
+    },
+    "meslek_ahsap_oymacs": {
+        "isim": "Ahşap Oymacısı",
+        "aciklama": "Günlük İsimler: Marangoz, Oyma Sanatçısı, Ahşap İşlemeci\nÇözdüğü Sorunlar:\n- Antika bir eşyanın üzerindeki değerli oyma süslemeler zarar gördü.\n- Yeni satın alacağım mobilyanın sıradan görünmesini istemiyorum, özel motifler eklemek istiyorum.\n- Dekoratif olması gereken bir niş veya kapak için özgün, el işçiliği bir pervaz yaptırmak istiyorum."
+    },
+    "meslek_comlekci": {
+        "isim": "Çömlekçi",
+        "aciklama": "Günlük İsimler: Seramikçi, Çömlekçi\nÇözdüğü Sorunlar:\n- Yemek yapmak ya da servis etmek için uygun boyutta, dayanıklı bir kap arıyorum.\n- Evime dekoratif, eşsiz bir obje veya saksı eklemek istiyorum.\n- Su veya kuru malzemeleri (zahter, kuru baklagil vb.) uzun süre saklayabileceğim hava almayan bir kap lazım."
+    },
+    "meslek_cam_ufleme_ustas": {
+        "isim": "Cam Üfleme Ustası",
+        "aciklama": "Günlük İsimler: Camcı, Cam Ustası\nÇözdüğü Sorunlar:\n- Evimin oturma odası için özel, tek parça bir vazo yaptırmam gerekiyor.\n- Loş ışık yerine, sanat değeri yüksek, el yapımı bir abajur istiyorum.\n- Bir hediye kutusunun içine konulacak özel bir cam obje yaptırmak istiyorum."
+    },
+    "meslek_restorator": {
+        "isim": "Restoratör",
+        "aciklama": "Günlük İsimler: Sanat Eseri Restoratörü, Eser Onarımcısı\nÇözdüğü Sorunlar:\n- Yıllanmış bir tablonun yüzeyi çatladı ve renkleri soyulmaya başladı.\n- Antik bir ahşap mobilyanın menteşesi kırıldı ve yapısı gevşek kaldı.\n- Çok eski bir el yazmasının kağıdı küflenmiş ve yırtılma tehlikesi altında."
+    },
+    "meslek_parke": {
+        "isim": "Parke",
+        "aciklama": "Günlük İsimler: Parkeci, Zemin Ustası\nÇözdüğü Sorunlar:\n- Yeni evi alıyoruz, zeminin baştan sona kaplanması gerekiyor.\n- Geçen kış sızıntısından dolayı parkenin bazı yerleri kabarmış ve kalkmış.\n- Odadaki zemin döşemesinde bir yerler sürekli çıtırdıyor ve boşluklar oluşmuş."
+    },
+    "meslek_mermer": {
+        "isim": "Mermer",
+        "aciklama": "Günlük İsimler: Tezgahçı, Mermer Ustası\nÇözdüğü Sorunlar:\n- Mutfak tezgahım çizilmiş, lekelenmiş ve yenilenmesi gerekiyor.\n- Banyo zemininde su sıçraması yapabilecek ve kaygan olabilecek bir kaplama var.\n- Evin dekoratif bir niş veya şömine alanı için estetik ve dayanıklı bir kaplama malzemesi gerekiyor."
+    },
+    "meslek_jaluzi": {
+        "isim": "Jaluzi",
+        "aciklama": "Günlük İsimler: Stor, Panjur, Pencere Perdesi\nÇözdüğü Sorunlar:\n- Karşı daireden içerideki hayatımızı ve eşyalarımızı görüyorlar.\n- Öğlen güneşi çok vuruyor, odayı çok ısıtıyor ve göz kamaştırıcı oluyor.\n- Kapalı ama tamamen karanlık olmasın; sadece ışığı filtrelemek istiyorum."
+    },
+    "meslek_sineklik_imalat": {
+        "isim": "Sineklik İmalat",
+        "aciklama": "Günlük İsimler: Sineklikçi, Pencere Sineklik Ustası\nÇözdüğü Sorunlar:\n- Yaz aylarında içeri giren sinek ve sivrisineklerden rahatsız olmak.\n- Mevcut sinekliklerin yırtılması veya pencerelere tam kapanmaması.\n- Balkon ya da veranda gibi açık alanları havalandırırken böceklerden korumak."
+    },
+    "meslek_tente": {
+        "isim": "Tente",
+        "aciklama": "Günlük İsimler: Tente Ustası, Veranda Tenteci, Tente Mekanizasyoncu\nÇözdüğü Sorunlar:\n- Kafede/dükkanda öğle güneşi çok yakıyor, gölgeye ihtiyacımız var.\n- Yağmur beklenmedik bir anda bastırdı ve outdoor oturma alanımız ıslak kaldı.\n- Eski tente sistemi yıprandı ve mekanik aksamları bozuldu, yeni bir düzenleme yapmamız gerekiyor."
+    },
+    "meslek_duvar_kagd_uygulama_ustas": {
+        "isim": "Duvar Kağıdı Uygulama Ustası",
+        "aciklama": "Günlük İsimler: Duvar Kağıdı Ustası, Kağıtcı\nÇözdüğü Sorunlar:\n- Yeni evimizdeki boş, sade duvarları dekoratif bir görünüme kavuşturmalıyız.\n- Duvar kağıdında bir yerleşim veya darbeden dolayı oluşan yırtık ve yıpranmaları onarmam gerekiyor.\n- Mutfaktaki eski, renk solmuş duvar kağıdını tamamen çıkarıp yenilemek istiyoruz."
+    },
+    "meslek_celik_kap": {
+        "isim": "Çelik Kapı",
+        "aciklama": "Günlük İsimler: Kapı Ustası, Metal Kapıcı\nÇözdüğü Sorunlar:\n- Evime girmeye çalışan zorlama ve hırsız girişimleri.\n- Apartmanın ortak alanlarından gelen ses ve gürültüyü kesmek.\n- Kışın eşiklerden sürekli sızan soğuk hava (yalıtım sorunu)."
+    },
+    "meslek_dusakabin_montaj": {
+        "isim": "Duşakabin Montaj",
+        "aciklama": "Günlük İsimler: Duşakabin Montajcısı, Banyo Montaj Ustası\nÇözdüğü Sorunlar:\n- Duşakabin kasası altından su akıtıyor ve fayansları ıslatıyor.\n- Montajı yapılacak duşakabin kapısı kilitlenmiyor/sarkıyor.\n- Mevcut duşakabin arasına silikon çatlamış, sızdırmazlık sağlanması gerekiyor."
+    },
+    "meslek_tkal_gider": {
+        "isim": "Tıkalı Gider",
+        "aciklama": "Günlük İsimler: Tesisatçı, Kanal Açıcı, Su Ustası\nÇözdüğü Sorunlar:\n- Mutfak lavabosu, biriken yağ ve gıda atıkları nedeniyle tamamen tıkandı, su akmıyor.\n- Tuvalet sifonu çekmesine rağmen su geri tepiyor veya giderden hiç su akmıyor.\n- Banyoda zemindeki drenaj deliği (yağmur suyu gideri) tıkandı, su birikintisi oluşuyor."
+    },
+    "meslek_su_kacag_tespit_uzman": {
+        "isim": "Su Kaçağı Tespit Uzmanı",
+        "aciklama": "Günlük İsimler: Tesisatçı, Su Kaçağı Ustası, Kaçak Tespiti Uzmanı\nÇözdüğü Sorunlar:\n- Su sayacından gelen anormal yüksek faturaların kaynağı araştırılıyor, gizli bir kaçağın tespit edilmesi gerekiyor.\n- Bodrum katında veya zeminin altında, duvarları nemlendiren ve yapısal hasara yol açan gizli sızıntı var.\n- Ana boru hattında (duvar içi/yer altı) sesli veya görsel olarak tespit edilemeyen su kaçağı var."
+    },
+    "meslek_moloz": {
+        "isim": "Moloz",
+        "aciklama": "Günlük İsimler: Moloz Toplayıcısı, Şantiye Temizlik Ekibi, İnşaat Atık Temizliği\nÇözdüğü Sorunlar:\n- Eski bir binayı yıkıp kalan devasa moloz yığınını alıp götürmem gerekiyor.\n- Yapılan tadilattan kalan inşaat atıkları, çöp kamyonuyla alınabilecek büyüklükte.\n- İş alanımızın etrafına yığılan moloz, kaldırıma ve trafiğe engel oluyor."
+    },
+    "meslek_profesyonel_ev_duzenleyici": {
+        "isim": "Profesyonel Ev Düzenleyici",
+        "aciklama": "Günlük İsimler: Düzen Uzmanı, Organizatör, Ev Düzenleyici\nÇözdüğü Sorunlar:\n- Gardırobumdaki kıyafetler arasında neye ne kadar yer kaldığını bilmiyorum.\n- Mutfak malzemeleri ve baharatlar sürekli karışıyor, hangi kavanozda ne var bilmiyorum.\n- Evdeki önemli evraklar ve anahtarlar dağınıklık yüzünden sürekli bir yerlerde kayboluyor."
+    },
+    "meslek_cep_telefonu": {
+        "isim": "Cep Telefonu",
+        "aciklama": "Günlük İsimler: Cep telefonu, Akıllı Telefon, Cep\nÇözdüğü Sorunlar:\n- Yolda kaybolduğumda hangi yoldan gideceğimi bilmem.\n- Acil bir durumda anında birini aramam veya yardım çağırmam gerekir.\n- Bir yerin adresini, açılış saatini veya bir işletmenin iletişim numarasını öğrenmem gerekiyor."
+    },
+    "meslek_televizyon": {
+        "isim": "Televizyon",
+        "aciklama": "Günlük İsimler: TV, Televizyon\nÇözdüğü Sorunlar:\n- Akşamları ne izleneceği konusunda kararsız kalmak.\n- Yaşanan önemli haberleri ve güncel gelişmeleri takip edememek.\n- Uzaktan bir maçı, konseri veya etkinliği izleme imkanı bulamamak."
+    },
+    "meslek_kucuk_ev_aletleri_tamircisi": {
+        "isim": "Küçük Ev Aletleri Tamircisi",
+        "aciklama": "Günlük İsimler: Ev Aletleri Tamircisi, Elektronik Tamirci\nÇözdüğü Sorunlar:\n- Mikrodalga fırınım sürekli hata verip kapanıyor.\n- Blender'ı çalıştırınca motorundan garip bir ses geliyor.\n- Elektrikli su ısıtıcısının (kettle) içinden su akmıyor."
+    },
+    "meslek_bilgisayar_donanm": {
+        "isim": "Bilgisayar Donanım",
+        "aciklama": "Günlük İsimler: Bilgisayar Tamircisi, PC Teknisyeni\nÇözdüğü Sorunlar:\n- Bilgisayarım açılmıyor, hiç ışık yanmıyor.\n- Bilgisayarım çok yavaşladı ve sık sık donuyor.\n- Yeni bir yazıcı veya ekran kartı takıyorum ama hiç çalışmıyor."
+    },
+    "meslek_guvenlik_kameras": {
+        "isim": "Güvenlik Kamerası",
+        "aciklama": "Günlük İsimler: Güvenlik Sistemi, İzleme Kamerası, CCTV Kamera\nÇözdüğü Sorunlar:\n- Uzakta iken evde birinin izinsiz dolaşıp dolanmadığını kontrol etmek.\n- Çocuklar veya evcil hayvanlar belirli bir alanda güvende mi, bunu uzaktan görmek.\n- Bir eşyanın çalındığı veya bir olayın yaşandığı anın kanıtını kaydetmek."
+    },
+    "meslek_uydu": {
+        "isim": "Uydu",
+        "aciklama": "Günlük İsimler: Uzay Uydusu, Haberleşme Sistemi, Konum Belirleme Sistemi\nÇözdüğü Sorunlar:\n- Şehirde veya kırsalda hiç sinyal alamadığımız yerlerde internet ve televizyon izleyememek.\n- Bir yere gitmek için ne kadar uzaklaştığımızı ve doğru rotayı bulamadığımız durumlar.\n- Yaklaşan bir fırtınanın, selin veya orman yangınının nerede ve ne zaman olacağını bilmemek."
+    },
+    "meslek_akll_telefon_ekran_degisim_teknisyeni": {
+        "isim": "Akıllı Telefon Ekran Değişim Teknisyeni",
+        "aciklama": "Günlük İsimler: Telefon Tamircisi, Cep Telefonu Tamircisi\nÇözdüğü Sorunlar:\n- Telefonda büyük bir çatlak var, görüntü net görünmüyor.\n- Ekrana dokunuyor ama bazı bölgeleri tepki vermiyor, kayıp yaşıyorum.\n- Telefon düşmesi sonucu ekran simsiyah oldu, hiçbir şey göremiyorum."
+    },
+    "meslek_veri_kurtarma_uzman": {
+        "isim": "Veri Kurtarma Uzmanı",
+        "aciklama": "Günlük İsimler: Veri Kurtarma Uzmanı, Hard Disk Uzmanı, Veri Teknikeri\nÇözdüğü Sorunlar:\n- Bilgisayarımın hard diski bozuldu, altı ayda yaptığım tez çalışması kayıp.\n- Telefonum suya düştü ve içerisindeki yıllardır biriktirdiğim aile fotoğraflarına erişemiyorum.\n- Önemli bir iş dosyasını yanlışlıkla sildim, geri getirip kurtarabilir misiniz?"
+    },
+    "meslek_oto_elektrikcisi": {
+        "isim": "Oto Elektrikçisi",
+        "aciklama": "Günlük İsimler: Arıza Elektrikçisi, Araba Elektrikçisi, Oto Elektrikçisi\nÇözdüğü Sorunlar:\n- Arabayı çalıştırmak için akü takviyesi yapmam gerekiyor ama sorun yine devam ediyor.\n- Sinyal lambaları (flaşörler) çalışmıyor ya da aralıklı yanıyor.\n- Gösterge panelindeki (dashboard) bir uyarı ışığı yanıyor ve ne olduğunu anlamıyorum."
+    },
+    "meslek_oto_cam_tamircisi": {
+        "isim": "Oto Cam Tamircisi",
+        "aciklama": "Günlük İsimler: Oto cam tamircisi, Cam tamircisi, Araç cam uzmanı\nÇözdüğü Sorunlar:\n- Yolda bir taş çarpması sonucu oluşan küçük çatlaklar.\n- Yoğun yağmur veya kış şartlarında görüşü engelleyen cam hasarları.\n- Trafik kazasında oluşan, tamiri gerektirecek boyutta büyük kırıklar."
+    },
+    "meslek_oto_doseme": {
+        "isim": "Oto Döşeme",
+        "aciklama": "Günlük İsimler: Oto Döşemeci, İç Mekan Restoratörü\nÇözdüğü Sorunlar:\n- Uzun süreli kullanımdan yıpranan ve yırtılan koltuk döşemeleri.\n- Oturma alanındaki derin çiziklerin ve kahve lekesi gibi lekelerin çıkmaması.\n- Aracın iç mekânındaki estetik veya yıpranmış görünen aksesuarları yenileme ihtiyacı."
+    },
+    "meslek_oto_kurtarc": {
+        "isim": "Oto Kurtarıcı",
+        "aciklama": "Günlük İsimler: Çekici, Oto Çekici, Kurtarıcı\nÇözdüğü Sorunlar:\n- Arabam yolda kaldı, aküsü bitti ve çalışmıyor.\n- Küçük bir kazada çarptım, aracı buradan nasıl çıkaracağım?\n- Araba engebeli bir yola girdi ve çamurda/taşda takıldı."
+    },
+    "meslek_boyasz_gocuk_duzeltme_ustas": {
+        "isim": "Boyasız Göçük Düzeltme Ustası",
+        "aciklama": "Günlük İsimler: Oto Göçük Düzeltme, Çarpma Tamircisi, Boyasız Boya Ustası\nÇözdüğü Sorunlar:\n- Park halindeyken kaldırıma veya benzer bir köşeye sürtünerek oluşmuş ezikleri gidermek.\n- Minör bir araba çarpışması sonucu oluşan, boya gerektirmeyen göçükleri düzeltmek.\n- Kapıdan darbe alması veya küçük bir kaza sonrası oluşan derin çizik ve ezikleri gidermek."
+    },
+    "meslek_elektrikli_scooter_tamircisi": {
+        "isim": "Elektrikli Scooter Tamircisi",
+        "aciklama": "Günlük İsimler: Scooter Tamircisi, Elektrikli Scooter Ustası\nÇözdüğü Sorunlar:\n- Bataryası çok hızlı bitiyor ve tam olarak ne kadar şarj kaldığını gösteremiyor.\n- Scooter'ın direksiyonunda bir takılma veya sürtünme sesi geliyor.\n- Fren lambaları hiç yanmıyor veya arıza ışığı yanıyor."
+    },
+    "meslek_mobil_oto_lastik_yol_yardm_ustas": {
+        "isim": "Mobil Oto Lastik Yol Yardım Ustası",
+        "aciklama": "Günlük İsimler: Oto Lastikçi, Lastikçi, Yol Yardımcı\nÇözdüğü Sorunlar:\n- Yolda lastiğim patladı ve yedek lastiği takmam gerekiyor.\n- Araba tekerleğindeki vidalar sıkışmış, tekerleği değiştirmem gerekiyor.\n- Jantıma çiviler saplandı, bir kontrol edilip havası ayarlanmalı."
+    },
+    "meslek_yediemin_otopark_gorevlisi": {
+        "isim": "Yediemin Otopark Görevlisi",
+        "aciklama": "Günlük İsimler: Otopark Görevlisi, Park Bekçisi\nÇözdüğü Sorunlar:\n- Park edeceğim yer var mı, müsaitlik durumu nedir?\n- Otopark giriş/çıkış kartımı okutamıyorum, geçiş yapamıyorum.\n- Bu arabanın park etme kurallarına uymadığı veya yanlış yerde park ettiği için uyarı gerekiyor."
+    },
+    "meslek_bebek": {
+        "isim": "Bebek",
+        "aciklama": "Günlük İsimler: Bakıcı, Bebek Bakıcısı, Çocuk Bakıcısı\nÇözdüğü Sorunlar:\n- Ebeveynler iş yerindeyken bebeğin ağlaması ve dikkat dağılması.\n- Bebeğin takviye mama veya katı gıdalara geçişini düzenli bir rutine oturtmak.\n- Evde güvenli bir ortam oluşturarak bebeği oyalayıcı ve eğlenceli aktivitelerle meşgul etmek."
+    },
+    "meslek_hasta": {
+        "isim": "Hasta",
+        "aciklama": "Günlük İsimler: Hasta, Hastalanmış Kişi\nÇözdüğü Sorunlar:\n- Geçen zamana göre artan kronik boyun ve omuz ağrısı çekiyorum.\n- Sabahları ayağa kalktığımda dizlerim çok ağrıyor ve şiş geliyor.\n- Sürekli mide bulantısı yaşıyorum ve ne yediğimden emin olamıyorum."
+    },
+    "meslek_ev_temizlik_gorevlisi": {
+        "isim": "Ev Temizlik Görevlisi",
+        "aciklama": "Günlük İsimler: Temizlikçi, Ev Yardımcısı\nÇözdüğü Sorunlar:\n- Mutfak tezgahlarında ve ocaklarda biriken yağ ve kir.\n- Banyo ve tuvaletlerde biriken küf, kir ve hijyen eksikliği.\n- Evdeki genel tozu ve günlük hayatta biriken düzen bozukluğunu gidermek."
+    },
+    "meslek_dogum_kocu": {
+        "isim": "Doğum Koçu",
+        "aciklama": "Günlük İsimler: Doğum Koçu, Doğum Süreci Destekçisi\nÇözdüğü Sorunlar:\n- Doğum sancıları sırasında ne yapacağımı bilememekten kaynaklanan panik ve kaygıyı yönetmek.\n- Doğum sürecinin aşamaları hakkında bilgi sahibi olmamak ve ne zaman ne bekleneceğini bilmemek.\n- Doğumdan hemen sonra lohusalık döneminde eşe veya kendime fiziksel/duygusal destek bulamamak."
+    },
+    "meslek_emzirme_dansman": {
+        "isim": "Emzirme Danışmanı",
+        "aciklama": "Günlük İsimler: Emzirme Uzmanı, Anne-Bebek Danışmanı\nÇözdüğü Sorunlar:\n- Bebeğim emzirirken acı çekiyor, ağrıyor.\n- Göğüslerim çok dolgun, sütün fazla geldiğini hissediyorum ve şişlikten rahatlayamıyorum.\n- Bebeğim kilo alıyor mu diye endişeliyim, yeterli süt verip vermediğimi bilmiyorum."
+    },
+    "meslek_koltuk": {
+        "isim": "Koltuk",
+        "aciklama": "Günlük İsimler: Döşemeci, Koltuk Tamircisi, Mobilya Ustası\nÇözdüğü Sorunlar:\n- Koltuk kumaşında büyük bir yırtık oldu, yenilenmesi gerekiyor.\n- Koltuk yastıklarının iç dolgusu çöktü, hacmini geri kazandırmak lazım.\n- Koltuk takımları eski ve yıpranmış, farklı bir görünüme kavuşturulması gerekiyor."
+    },
+    "meslek_insaat_sonras_temizlik_uzman": {
+        "isim": "İnşaat Sonrası Temizlik Uzmanı",
+        "aciklama": "Günlük İsimler: Tadilat Sonrası Temizlikçi, İnşaat Temizlik Uzmanı\nÇözdüğü Sorunlar:\n- Yeni yapılmış evdeki tüm yüzeylerdeki ince toz ve inşaat kalıntıları.\n- Banyo ve mutfak fayanslarındaki çimento, sıva ve alçı izleri.\n- Pencere kenarları, süpürgelikler ve elektrik priz kutularındaki yapışkan ve ulaşılması zor kirler."
+    },
+    "meslek_pet_kuaforu": {
+        "isim": "Pet Kuaförü",
+        "aciklama": "Günlük İsimler: Hayvan Kuaförü, Pet Kuaförü\nÇözdüğü Sorunlar:\n- Köpeğimin/kedimin tüyleri çok keçeleşti, taraması imkansız hale geldi.\n- Evde yaşıyor ve sürekli kirlenip kokuyor, banyo yaptırmam gerekiyor.\n- Tırnakları uzayıp, kulakları ve ağız hijyeninin kontrol edilmesi gerekiyor."
+    },
+    "meslek_kopek_egitmeni": {
+        "isim": "Köpek Eğitmeni",
+        "aciklama": "Günlük İsimler: Köpek Eğitmeni, Köpek Davranış Uzmanı\nÇözdüğü Sorunlar:\n- Yürüyüşte tasmasıyla sürekli çekiyor ve toplanması çok zor.\n- Evde yalnız bırakıldığında aşırı havlıyor ve eşyalara zarar veriyor.\n- Misafirler veya diğer köpekler gördüğünde aşırı gergin ve havlayarak tepki veriyor."
+    },
+    "meslek_pet_taksi_surucusu": {
+        "isim": "Pet Taksi Sürücüsü",
+        "aciklama": "Günlük İsimler: Pet Taşıyıcısı, Hayvan Transferi Servisi\nÇözdüğü Sorunlar:\n- Köpeğim şu an çok gergin ve veteriner kliniğine ben götüremem.\n- Kuaföre gitmem gerekiyor ama araba trafiği nedeniyle geç kalacağım.\n- Büyük bir mesafedeki bir arkadaşımın evine kısa süreliğine yatması gerekiyor."
+    },
+    "meslek_kopek_gezdiricisi": {
+        "isim": "Köpek Gezdiricisi",
+        "aciklama": "Günlük İsimler: Köpek Bakıcısı, Pet Walker, Evcil Hayvan Gezdirici\nÇözdüğü Sorunlar:\n- Sabah işteyken ya da öğle arasında köpeğin tuvaletini yapması ve egzersiz yapması.\n- Evde yalnız kalan bir köpeğin enerji patlaması yaşamamasını sağlamak.\n- Yoğun çalışan bir sahibinin günlük koşu ve gezinti ihtiyacını karşılamak."
+    },
+    "meslek_evcil_hayvan_bakcs": {
+        "isim": "Evcil Hayvan Bakıcısı",
+        "aciklama": "Günlük İsimler: Pet Bakıcısı, Hayvan Bakıcısı, Evcil Hayvan Gözetmeni\nÇözdüğü Sorunlar:\n- Ben işteyken köpeğimin ve kedimin düzenli bir şekilde beslenmesi gerekiyor.\n- Evde yalnız kalırken patileri yere çiziyor ve tahribat yapıyor.\n- Akşam olunca tuvalete ihtiyacı oluyor ama ben yanlarında olamıyorum."
+    },
+    "meslek_odyolog": {
+        "isim": "Odyolog",
+        "aciklama": "Günlük İsimler: İşitme Uzmanı, Kulak Uzmanı\nÇözdüğü Sorunlar:\n- Restoran gibi gürültülü ortamlarda konuşulanları anlamakta zorlanmak.\n- Yaşlanmaya bağlı olarak sürekli azalan veya aniden çıkan işitme kaybı şüphesi.\n- Konuşmayı veya televizyon sesini yeterince algılayamamak ve takma kulak ihtiyacı olması."
+    },
+    "meslek_optisyen": {
+        "isim": "Optisyen",
+        "aciklama": "Günlük İsimler: Gözlükçü, Optisyen\nÇözdüğü Sorunlar:\n- Okuduğum kitaplar veya telefon ekranı gözlerimi çok yoruyor, ne kadar güce ihtiyacım var?\n- Yakın okuma ve uzak görüş için farklı numaralı camlar gerekli.\n- Gözlük camlarım çatladı veya gözlüklerim kayboldu, acilen yedek almam lazım."
+    },
+    "meslek_protez": {
+        "isim": "Protez",
+        "aciklama": "Günlük İsimler: Protez Uzmanı, Ek Uzmanı, Ortez Uzmanı\nÇözdüğü Sorunlar:\n- Dizimin veya dirseğimin aşırı yıpranması nedeniyle sürekli ağrım var ve bir desteğe ihtiyacım var.\n- Bir uzuvumu kaybettim ve günlük yaşamıma devam edebilmek için yapay bir ele/kola ihtiyacım var.\n- Ayaklarımın rahat edemediğini fark ettim, yürüyüşümü destekleyecek özel tabanlara ihtiyacım var."
+    },
+    "meslek_ergoterapist": {
+        "isim": "Ergoterapist",
+        "aciklama": "Günlük İsimler: Rehabilitasyon Uzmanı, İşlevsellik Uzmanı, El Becerisi Uzmanı\nÇözdüğü Sorunlar:\n- El bileğimdeki tendon zarı yırtıldığı için düğme ilikleyemiyorum.\n- Uzun süre yazı yazdıktan sonra ellerim uyuşuyor ve güç kaybediyorum.\n- Oturma pozisyonumdan kalkıp bir nesneyi alırken koordinasyonum bozuluyor."
+    },
+    "meslek_podolog": {
+        "isim": "Podolog",
+        "aciklama": "Günlük İsimler: Ayak Sağlığı Uzmanı, Ayak Doktoru\nÇözdüğü Sorunlar:\n- Parmağımda uzayan, acı veren bir tırnak var.\n- Ayak tabanlarımda yürürken ağrıyan büyük nasırlar oluştu.\n- Ayaklarım sürekli kaşınıyor, kuruyor ve üzerinde kızarıklıklar var (mantar ihtimali)."
+    },
+    "meslek_evde_bakm_hemsiresi": {
+        "isim": "Evde Bakım Hemşiresi",
+        "aciklama": "Günlük İsimler: Bakım Hemşiresi, Hasta Bakıcısı\nÇözdüğü Sorunlar:\n- Yatağa bağımlı bir hastanın günlük kişisel hijyeni ve hareketliliği.\n- Kan şekerini kontrol etme, insülin enjeksiyonu gibi rutin ilaç uygulamaları.\n- Ameliyat sonrası oluşan yaranın pansumanının düzenli olarak yapılması ve enfeksiyon kontrolü."
+    },
+    "meslek_medikal_urun_sats": {
+        "isim": "Medikal Ürün Satış",
+        "aciklama": "Günlük İsimler: Medikal Temsilci, Tıbbi Cihaz Satıcısı\nÇözdüğü Sorunlar:\n- Yeni açılacak bir poliklinikte gerekli tüm laboratuvar ve diagnostik cihazlarını en uygun maliyetle temin etmek.\n- Hastanın durumuna en uygun, daha verimli çalışan bir ameliyathane ekipmanını bulmak.\n- Mevcut tıbbi cihazlardaki aksaklıkları giderip, klinik iş akışını hızlandıracak bir yedek çözüm sağlamak."
+    },
+    "meslek_solunum_terapisti": {
+        "isim": "Solunum Terapisti",
+        "aciklama": "Günlük İsimler: Solunum Terapisti, Akciğer Terapisti\nÇözdüğü Sorunlar:\n- Astım atağı geçiren ve nefes almakta zorlanan bir hasta var.\n- Kronik öksürük ve bronşit nedeniyle akciğer temizliği gereken bir hasta.\n- Yoğun bakımdaki bir hastanın solunum cihazına bağlanması ve yönetilmesi gerekiyor."
+    },
+    "meslek_miras_hukuku_dansman": {
+        "isim": "Miras Hukuku Danışmanı",
+        "aciklama": "Günlük İsimler: Veraset Müşaviri, Miras Hukuku Uzmanı\nÇözdüğü Sorunlar:\n- Eşimden sonra evimiz hangi çocukma kalacak, bunu resmi olarak düzenlemek istiyorum.\n- Babama ait birkaç banka hesabı var ama vefat ettiğinde kimin adına geçeceği belirsiz.\n- Aile içinde, kimin ne alacağı konusunda sürekli tartışma çıkıyor ve hukuki bir çözüme ihtiyacımız var."
+    },
+    "meslek_icra": {
+        "isim": "İcra",
+        "aciklama": "Günlük İsimler: İcra Memuru, Hacizci\nÇözdüğü Sorunlar:\n- Bir kişiden alınması gereken borç para ödenmiyor.\n- Bir mal veya araç satılarak bir borcun ödenmesi gerekiyor.\n- Bir eşyanın veya mülkün teminat altına alınması ve elden çıkarılması gerekiyor."
+    },
+    "meslek_arabulucu": {
+        "isim": "Arabulucu",
+        "aciklama": "Günlük İsimler: Arabulucu, Uzlaşmacı, Çatışma Çözücü\nÇözdüğü Sorunlar:\n- Boşanma sürecindeki mal paylaşımı veya nafaka miktarı konusunda eşlerim anlaşamıyor.\n- Komşumla arsamızın sınır çizgisi üzerinde sürekli bir anlaşmazlık yaşıyoruz.\n- İş ortağım, ortak bir projenin telif hakkı veya kar payı dağılımı konusunda ısrarcı ve tartışmacı."
+    },
+    "meslek_adli": {
+        "isim": "Adli",
+        "aciklama": "Günlük İsimler: Avukat, Hukuk Danışmanı, Avukatlık\nÇözdüğü Sorunlar:\n- Kiracı olduğum ev sahibi, yaptığım küçük bir hasardan dolayı beni dava etti.\n- Bir tüketici olarak, satın aldığım elektronik eşya garantisi dışında arızalandı.\n- İş arkadaşım, şirket sırrımı izinsiz bir platformda yayınladı ve beni ifşa etti."
+    },
+    "meslek_sigorta_hasar_eksperi": {
+        "isim": "Sigorta Hasar Eksperi",
+        "aciklama": "Günlük İsimler: Hasar Eksperi, Hasar Değerlendirici\nÇözdüğü Sorunlar:\n- Trafik kazası sonrası arabanın tam olarak ne kadar onarılması gerektiği konusunda anlaşmazlık var.\n- Sel veya yangın nedeniyle dairede oluşan hasarın sigorta kapsamında ne kadar ödeneceğini bulmak gerekiyor.\n- Bir malın (kamera, elektronik eşya vb.) çalınması sonrası sigorta şirketinin ödeme yapacağı gerçek değer tespiti isteniyor."
+    },
+    "meslek_patent": {
+        "isim": "Patent",
+        "aciklama": "Günlük İsimler: Patent Vekili, Fikri Mülkiyet Avukatı\nÇözdüğü Sorunlar:\n- Ürettiğim yeni bir cihazın mekanizmasını rakiplerimin izinsiz kopyalamasını nasıl engelleyeceğim?\n- Piyasaya süreceğim ürünün isminin ve logosunun başka şirketler tarafından kullanılıp ticari zarar görmesini nasıl önlerim?\n- Emek vererek hazırladığım yazılımın veya tasarımın telif hakkını yasal olarak kimsenin almasını nasıl engellerim?"
+    },
+    "meslek_yurt_ds_egitim_dansman": {
+        "isim": "Yurt Dışı Eğitim Danışmanı",
+        "aciklama": "Günlük İsimler: Yurt Dışı Öğrenim Danışmanı, Eğitim Danışmanı, Study Abroad Danışmanı\nÇözdüğü Sorunlar:\n- Kızımın/Oğlumun hangi ülkenin hangi bölümünün kendisi için en uygun olduğuna karar veremiyoruz.\n- Öğrenci vizesi başvuru sürecinde gerekli olan belgeler, adımlar ve zaman çizelgesini bilmiyorum.\n- Hedeflediğimiz üniversitenin yıllık ücretlerini, burs imkanlarını ve yaşam maliyetini karşılaştırması yapmamız gerekiyor."
+    },
+    "meslek_manikurist": {
+        "isim": "Manikürist",
+        "aciklama": "Günlük İsimler: Manikürcu, Tırnak Uzmanı\nÇözdüğü Sorunlar:\n- Tırnaklarımda sararma, kırılma veya şekil bozukluğu var.\n- Elime bakıcı bir görünüm kazandırmak istiyorum, sadece manikür lazım.\n- Önemli bir etkinlik var, profesyonel tırnak tasarımlarına ihtiyacım var."
+    },
+    "meslek_ipek_kirpik": {
+        "isim": "İpek Kirpik",
+        "aciklama": "Günlük İsimler: Kirpik Uzmanı, Lash Artist\nÇözdüğü Sorunlar:\n- Sabahları kirpik boyama, kıvırma ve maskara sürme gibi zaman kaybı yaşamamak.\n- Doğal kirpiklerimin kısa ve seyrek görünmesi nedeniyle yeterli etki yaratmaması.\n- Önemli bir etkinlik için zahmetsiz, dolgun ve dramatik bir göz görünümü elde etmek."
+    },
+    "meslek_kisisel_stilist": {
+        "isim": "Kişisel Stilist",
+        "aciklama": "Günlük İsimler: Giyim Danışmanı, Stil Koçu\nÇözdüğü Sorunlar:\n- Gardırobumdaki parçaları birbirine nasıl kombinleyeceğimi bilemiyorum.\n- Yakın zamanda katılacağım önemli bir etkinlik için ne giyeceğimi bulamıyorum.\n- Mevcut tarzımın bana yakışmadığını veya modası geçtiğini hissediyorum."
+    },
+    "meslek_cenaze_hizmetleri_gorevlisi": {
+        "isim": "Cenaze Hizmetleri Görevlisi",
+        "aciklama": "Günlük İsimler: Cenaze Servisi Personeli, Cenaze İşleri Görevlisi, Cenaze Nakliye Ustası\nÇözdüğü Sorunlar:\n- Ölen yakının vücudunun hijyenik ve usulüne uygun bir şekilde hazırlanması gerekiyor.\n- Cenazeyi defin yerine ya da defin öncesi geçici bir otele ulaştıracak nakliye ve lojistik ağı gerekiyor.\n- Aile olarak cenaze ritüeli (tören, kılınış) sürecini başından sonuna kadar organize etmemiz gerekiyor."
+    },
+    "meslek_kutuphaneci": {
+        "isim": "Kütüphaneci",
+        "aciklama": "Günlük İsimler: Kütüphaneci, Kitap Görevlisi\nÇözdüğü Sorunlar:\n- Okul ödevi için çok fazla bilgi kaynağı arasında en güvenilir olanı bulamıyorum.\n- İstediğim kitabın var olup olmadığını veya hangi rafta olduğunu öğrenmek istiyorum.\n- Çalışabileceğim, dış seslerden izole edilmiş sessiz bir ortam bulamıyorum."
+    },
+    "meslek_kazan_dairesi_bakm_teknisyeni": {
+        "isim": "Kazan Dairesi Bakım Teknisyeni",
+        "aciklama": "Günlük İsimler: Kazan Teknisyeni, Isıtma Tesisatı Uzmanı, Tesisatçı\nÇözdüğü Sorunlar:\n- Evdeki radyatörler yeterince ısınıyor gibi değil, sürekli soğuk hissediyoruz.\n- Banyo lavabosundan sürekli, yeterli basınçta sıcak su alamıyoruz.\n- Bina merkezi ısınma sistemi çok gürültü yapıyor ve ısıtma verimi düşmüş."
+    },
+    "meslek_su_artma_cihaz_servis_teknisyeni": {
+        "isim": "Su Arıtma Cihazı Servis Teknisyeni",
+        "aciklama": "Günlük İsimler: Filtreci, Arıtma Teknisyeni, Su Sistemleri Uzmanı\nÇözdüğü Sorunlar:\n- Musluktan akan suyun tadı çok kötü, sürekli koku yapıyor.\n- Evdeki suyun çok sert olması nedeniyle çamaşır makinesi çok kireçleniyor.\n- Arıtma cihazının göstergesinde hata kodu yanıyor ve su akmıyor."
+    },
+    "meslek_klima_montaj": {
+        "isim": "Klima Montaj",
+        "aciklama": "Günlük İsimler: Klimaçı, Klima Ustası, Tesisatçı\nÇözdüğü Sorunlar:\n- Yeni açılan bir odada klimanın kurulması ve borulama işinin yapılması gerekiyor.\n- Klimanın dış ünitesinden sürekli su damlaması, yerleşim problemi var.\n- Mevcut klimanın soğutma gücü azaldı, bakımı ve gaz dolumu gerekiyor."
+    },
+    "meslek_kanal": {
+        "isim": "Kanal",
+        "aciklama": "Günlük İsimler: Tesisatçı, Kanal Ustası, Tıkanıklık Açıcı\nÇözdüğü Sorunlar:\n- Mutfak lavabosu veya banyo gideri yavaş akıyor ve kötü koku yayıyor.\n- Tuvalet kullanıldığında suyun geri gelmesi veya sifonun çalışmaması.\n- Bodrum veya bahçedeki ana drenaj hattında gözle görülmeyen tıkanıklık olması."
+    },
+    "meslek_kasa": {
+        "isim": "Kasa",
+        "aciklama": "Günlük İsimler: Kasiyer, Ödeme Görevlisi\nÇözdüğü Sorunlar:\n- Aldığım ürünlerin toplam fiyatı doğru mu, kontrol etmem gerekiyor.\n- İndirim veya sadakat kartı uygulamasının sepata yansıyıp yansımadığını öğrenmek istiyorum.\n- Yanımda bir ürünün iadesi var, iade işlemini nasıl yapacağımı bilemiyorum."
+    },
+    "meslek_bahce_sulama": {
+        "isim": "Bahçe Sulama",
+        "aciklama": "Günlük İsimler: Sulama Sistemi Kurulumu, Bahçe Sulaması, Peyzaj Sulaması\nÇözdüğü Sorunlar:\n- Çimlerimin bazı kısımları kurumuş, yeşermiyor ve düzensiz sulanıyor.\n- Sulama sisteminde sürekli su sızdıran, boşa harcayan bir boru var.\n- Bahçenin bazı bölgeleri hiç sulanmıyor, bitkiler susuz kalıyor."
+    },
+    "meslek_yangn_sondurme_sistemleri_bakm_teknisyeni": {
+        "isim": "Yangın Söndürme Sistemleri Bakım Teknisyeni",
+        "aciklama": "Günlük İsimler: Yangın Sistemleri Teknisyeni, Yangın Güvenliği Bakım Uzmanı\nÇözdüğü Sorunlar:\n- Binalardaki duman dedektörleri sürekli uyarı veriyor ama sebebi belli değil.\n- Otomatik sprinkler sistemi basınçlı değil ve çalışıp çalışmadığı kontrol edilmeli.\n- Kurumsal bir mekanın yıllık zorunlu yangın alarm sistemi periyodik bakımı gerekiyor."
+    },
+    "meslek_kepenk": {
+        "isim": "Kepenk",
+        "aciklama": "Günlük İsimler: Kepenkci, Stor/Perde Ustası\nÇözdüğü Sorunlar:\n- Kepenklere takılan mekanizmalar çok zor çalışıyor, sıkışmış.\n- Yan cepheden gelen güneş ışığı odayı çok yakıyor, gölgeleme yapılması gerekiyor.\n- Depremden veya bir darbe sonucu kepenk bir parçası kırıldı, tamiri gerekiyor."
+    },
+    "meslek_akustik": {
+        "isim": "Akustik",
+        "aciklama": "Günlük İsimler: Ses Uzmanı, Ses İzolasyon Danışmanı\nÇözdüğü Sorunlar:\n- Yan daireden gelen konuşma ve müzik sesleri çok rahatsız ediyor, çözüm nedir?\n- Evden çalışıyorum, ses yankısı (eko) çok fazla olması yüzünden görüşmelerimde sesim net çıkmıyor.\n- Alt kat odadan gelen sesler, örneğin makine sesi veya çarpma sesleri çok fazla geliyor."
+    },
+    "meslek_cam_balkon_imalat": {
+        "isim": "Cam Balkon İmalat",
+        "aciklama": "Günlük İsimler: Camcı, Balkon Ustası, Balkon İmalatçısı\nÇözdüğü Sorunlar:\n- Eski ve güvensiz olan balkon korkuluklarımı sağlam bir şekilde yenilemek istiyorum.\n- Balkonumu tamamen kapatarak, kışın kullanabileceğim bir yaşam alanına dönüştürmek istiyorum.\n- Bölgedeki kötü hava koşullarından koruyacak, yüksek yalıtımlı bir cam sistemine ihtiyacım var."
+    },
+    "meslek_bina_mantolama": {
+        "isim": "Bina Mantolama",
+        "aciklama": "Günlük İsimler: Cephe Yalıtımcısı, Mantolama Ustası, Dış Cephe Uygulayıcısı\nÇözdüğü Sorunlar:\n- Kışın evde aşırı soğuk hissediyorum ve ısı kaybı çok fazla.\n- Duvarlardan nem geliyor, sürekli küf oluşuyor.\n- Elektrik faturası çok yüksek geldi, evi ısıtmak için aşırı yakıt tüketiyoruz."
+    },
+    "meslek_mutfak_tezgah": {
+        "isim": "Mutfak Tezgahı",
+        "aciklama": "Günlük İsimler: Mutfak Tezgahı, Mutfak Çalışma Yüzeyi\nÇözdüğü Sorunlar:\n- Yemek hazırlarken sebzeleri doğrayabileceğim sağlam ve düz bir zemine ihtiyacım var.\n- Pişirdiğim yemeği servis edip bekletmek için yeterli alan bulamıyorum.\n- Mutfakta dağınıklığı ve malzemeleri bir arada toplayabileceğim bir çalışma istasyonuna ihtiyacım var."
+    },
+    "meslek_muzik_aletleri": {
+        "isim": "Müzik Aletleri",
+        "aciklama": "Günlük İsimler: Enstrüman Tamircisi, Müzik Aleti Ustası\nÇözdüğü Sorunlar:\n- Gitarımın sapı düz değil, telleri akort etmekte zorlanıyorum.\n- Fleketi (veya benzeri bir hava kanalı) tam kapanmıyor ve hava kaçırıyor.\n- Yaylı çalgımın perdesi (sap kısmı) kırıldı ve yerine yenisi takılmalı."
+    },
+    "meslek_piyano_akortcusu": {
+        "isim": "Piyano Akortçusu",
+        "aciklama": "Günlük İsimler: Akortçi, Piyano Akortçısı\nÇözdüğü Sorunlar:\n- Piyanoyu çalmak istediğimde sesi kulak tırmalayıcı, \"yanlış\" geliyor.\n- Bazı tuşlar takılıyor, düzgün basılmıyor veya tellerde bir gerginlik hissediliyor.\n- Hava değişimi yüzünden veya mevsim geçişi nedeniyle piyanonun sesinde bozulmalar oluyor."
+    },
+    "meslek_bebek_uyku_dansman": {
+        "isim": "Bebek Uyku Danışmanı",
+        "aciklama": "Günlük İsimler: Bebek Uyku Koçu, Uyku Uzmanı, Bebek Uyku Danışmanı\nÇözdüğü Sorunlar:\n- Bebeğim gece 2-3 saat aralıklarla uyanıyor ve tekrar uyutmak çok zor.\n- Akşam olunca sürekli ağlıyor ve rutini nasıl oturtacağımı bilemiyorum.\n- Bebeğimi yanımda yatırmak zorundayım, nasıl bağımsız bir uyku düzeni oluşturabiliriz?"
+    },
+    "meslek_kedi": {
+        "isim": "Kedi",
+        "aciklama": "Günlük İsimler: Pati, Ev Kedisi\nÇözdüğü Sorunlar:\n- Uzun saatler yalnız kalmak ve can sıkıntısı yaşamak.\n- Evde gezinirken köşelerde biriken tüy ve tozları kontrol altında tutmak.\n- Rutin bir hayata eğlence ve spontane bir dikkat dağıtıcı unsur katmak."
+    },
+    "meslek_akvaryum_kurulum": {
+        "isim": "Akvaryum Kurulum",
+        "aciklama": "Günlük İsimler: Akvaryumcu, Akvaryum Uzmanı\nÇözdüğü Sorunlar:\n- Sıfırdan kurulan akvaryumdaki su kimyası dengesini ayarlamam gerekiyor.\n- Balıklar ve bitkiler için uygun filtreleme sistemini ve dekorasyonu tasarlatmalıyım.\n- Sudan köpük, küf veya bakteri kokusu geliyor, su kalitesini nasıl düzeltirim?"
+    },
+    "meslek_ev": {
+        "isim": "Ev",
+        "aciklama": "Günlük İsimler: Usta, Ev Tamircisi, Tadilat Ustası\nÇözdüğü Sorunlar:\n- Soğuk kış sabahlarında pencere ve kapılardan sürekli bir hava akımı geliyor.\n- Kombinin verdiği sıcak su gitmiş, sadece ılık su geliyor.\n- Elektrik prizlerinden sürekli ışık titremesi yaşanıyor ve sigorta atmaya başladı."
+    },
+    "meslek_baca": {
+        "isim": "Baca",
+        "aciklama": "Günlük İsimler: Bacacı, Baca Ustası, Baca Bacası\nÇözdüğü Sorunlar:\n- Şömine/ocak başında çıkan kesik kesik ve ağır duman.\n- Bacadan düzgün çekmeyen, ısınma verimini düşüren bir sistem.\n- Baca içinde birikmiş, yanıcı ve tehlikeli düzeyde is (kreot)."
+    },
+    "meslek_forklift": {
+        "isim": "Forklift",
+        "aciklama": "Günlük İsimler: Forklift Operatörü, Kaldırma İşçisi, Depo Taşıyıcı\nÇözdüğü Sorunlar:\n- Yükleme alanındaki paletler çok uzakta ve tek tek taşınması zor.\n- Envanterin çok yüksek raflarına erişmemiz gerekiyor.\n- Teslim edilecek çok sayıda ağır kutuyu hızlı ve güvenli bir şekilde transfer etmeliyiz."
+    },
+    "meslek_oto_klima": {
+        "isim": "Oto Klima",
+        "aciklama": "Günlük İsimler: Klima Tamircisi, Oto Klima Servisi\nÇözdüğü Sorunlar:\n- Arabanın içindeki hava hiç soğutmuyor, ılık üflüyor.\n- Arabanın içinden bayat, nemli veya kötü bir koku geliyor.\n- Klima düğmesine basıyorum ama hiçbir ses veya hava çıkmıyor."
+    },
+    "meslek_oto_anahtar": {
+        "isim": "Oto Anahtar",
+        "aciklama": "Günlük İsimler: Auto Anahtarcısı, Oto Anahtarçı\nÇözdüğü Sorunlar:\n- Eve veya arabaya girerken anahtarımı/uzaktan kumandayı kaybettiğimde.\n- Anahtarım kırıldı veya çok yıprandı, yeni kopyasını yaptırmam gerektiğinde.\n- Arabamda pil bitmesi veya kumandanın sinyal göndermemesi nedeniyle yolda kaldığımda."
+    },
+    "meslek_oto_egzoz_muayene": {
+        "isim": "Oto Egzoz Muayene",
+        "aciklama": "Günlük İsimler: Egzoz Kontrolü, Araba Egzoz Sistemi Bakımı, Otomotiv Egzoz Servisi\nÇözdüğü Sorunlar:\n- Arabam normalden çok fazla duman atıyor ve kötü bir koku yayılıyor.\n- Motorumdan gelen ses eskisine göre çok fazla uğulduyor, sanki bir yerinden kaçak var.\n- Araç trafiğe çıkacak ama emisyon testinden geçip geçmeyeceğimi bilmiyorum."
+    },
+    "meslek_oto_pasta_cila": {
+        "isim": "Oto Pasta Cila",
+        "aciklama": "Günlük İsimler: Oto Kuaförü, Detaylı Temizlik Servisi, Pasta Cila\nÇözdüğü Sorunlar:\n- Otomatik yıkamadan kaynaklı ufak çizikler ve matlaşma var.\n- Başlıkları ve farları zamanla sararmış ve opak bir görünüme sahip.\n- Arabanın orijinal parlaklığını ve derinliğini kaybetmiş, donuk bir yüzeyi var."
+    },
+    "meslek_oto_gaz__donusum": {
+        "isim": "Oto Gaz  Dönüşüm",
+        "aciklama": "Günlük İsimler: Gaz Sistemi Uzmanı, LPG Dönüşümcü, Otogazcu\nÇözdüğü Sorunlar:\n- Benzin fiyatları çok yüksek, yakıt masrafımı düşürmek istiyorum.\n- Arabam çok eski ve benzin yakması çok fazla.\n- Aracımı benzin yerine gaz yakıtıyla kullanacak şekilde uyarlatmak istiyorum."
+    },
+    "meslek_oto_boya_koruma": {
+        "isim": "Oto Boya Koruma",
+        "aciklama": "Günlük İsimler: Detaycı, Boya Koruma Uygulayıcısı\nÇözdüğü Sorunlar:\n- Kuş pisliği, ağaç özsuyu veya reçine gibi maddelerden kaynaklanan lekeler.\n- Yüksek hızda çarpma sonucu oluşan küçük boya çizikleri veya taş çarpmaları.\n- UV ışınlarından kaynaklanan, zamanla boya üzerindeki solma ve matlaşma."
+    },
+    "meslek_gda": {
+        "isim": "Gıda",
+        "aciklama": "Günlük İsimler: Aşçı, Şef, Bakkal, Yemek Hazırlayıcı\nÇözdüğü Sorunlar:\n- Buzdolabındaki sebzeler ve etler ne zaman bozulacak, ne pişireceğim?\n- Misafirler gelmesi gerekecek, ne yapacağım, zamanım yok.\n- Sağlıklı, ama lezzetli, diyetime uygun bir akşam yemeği hazırlamam gerekiyor."
+    },
+    "meslek_site": {
+        "isim": "Site",
+        "aciklama": "Günlük İsimler: Site Yöneticisi, Site Yönetimi, Apartman Yöneticisi\nÇözdüğü Sorunlar:\n- Girişteki güvenlik sisteminde arıza oldu, kart geçmiyor.\n- Ortak kullanılan bahçede bir çalının/ağacın düzenlemesi gerekiyor.\n- Geçici otopark alanının kullanımıyla ilgili komşular arasında kavga çıkmaması gerekiyor."
+    },
+    "meslek_bina_gorevlisi": {
+        "isim": "Bina Görevlisi",
+        "aciklama": "Günlük İsimler: Apartman Görevlisi, Bina Personeli, Bekçi\nÇözdüğü Sorunlar:\n- Evime gelen kargo kapıda kaldı, şifremi vermeden almam gerekiyor.\n- Ortak alanda bir ampul yanmıyor ve ne zaman yanacağını bilmiyorum.\n- Bisikletimi otoparkta park ettim ama kapı/bölge girişi açılmıyor."
+    },
+    "meslek_tbbi_laboratuvar_teknikeri": {
+        "isim": "Tıbbi Laboratuvar Teknikeri",
+        "aciklama": "Günlük İsimler: Laboratuvar Teknikeri, Tahlilci\nÇözdüğü Sorunlar:\n- Halsiz hissetmeme rağmen hangi enfeksiyonu kaptığımı ve tedavime ne eklenmesi gerektiğini öğrenme.\n- Düzenli kan şekerimi kontrol ederek diyabet riskimin yüksek olup olmadığını anlamama.\n- Ciğerlerimdeki sorunun viral mi, bakteriyel mi olduğunu kesin olarak bilme."
+    },
+    "meslek_radyoloji": {
+        "isim": "Radyoloji",
+        "aciklama": "Günlük İsimler: Görüntüleme Uzmanı, Röntgen Uzmanı, MR/Tomografi Uzmanı\nÇözdüğü Sorunlar:\n- Bir spor yaralanması sonrası diz veya omuz ekleminde yırtık olup olmadığını anlamak.\n- Şiddetli sırt ağrısı nedeniyle sinir sıkışması veya omurga sorunları olup olmadığını kontrol etmek.\n- Karnında sürekli bir ağrı var, iç organlarında (karaciğer, böbrek vb.) bir problem olup olmadığını görmek."
+    },
+    "meslek_eczane_hizmetleri_teknikeri": {
+        "isim": "Eczane Hizmetleri Teknikeri",
+        "aciklama": "Günlük İsimler: Eczane Görevlisi, Eczacı Yanı\nÇözdüğü Sorunlar:\n- Doktorun verdiği çok sayıda farklı ilacın hangi sırayla ve ne kadar süreyle kullanılacağı karıştı.\n- Sürekli kullandığım ilaçların refil edilmesi gerekiyor ama reçeteyi bulamıyorum.\n- Ağrım için hangi reçetesiz ilaçlar güvenli olur ve birbirleriyle etkileşimde bulunur mu?"
+    },
+    "meslek_fizik_tedavi_masoru": {
+        "isim": "Fizik Tedavi Masörü",
+        "aciklama": "Günlük İsimler: Fizyoterapist, Masaj Terapisti\nÇözdüğü Sorunlar:\n- Masa başında uzun saatler çalışmaktan boyun ve omuz kaslarım çok gerildi.\n- Spor yaparken yaşadığım bir burkulma sonrası hareket açıklığımı kaybettim.\n- Sabahları uyandığımda sırt ağrısı yaşıyor, kalkmakta zorlanıyorum."
+    },
+    "meslek_dil": {
+        "isim": "Dil",
+        "aciklama": "Günlük İsimler: Tercüman, Çevirmen, Dil Öğretmeni\nÇözdüğü Sorunlar:\n- Bir yurt dışı görüşmesinde veya seyahatte konuşulan dili anlamıyorum.\n- Resmi bir belgeyi (diploma, sözleşme vb.) başka bir dile çevirip onaylatmam gerekiyor.\n- Yeni bir şehri/ülkeyi ziyaret ediyorum ve temel konuşma dilini hızlıca öğrenmek istiyorum."
+    },
+    "meslek_sosyal_hizmet_uzman": {
+        "isim": "Sosyal Hizmet Uzmanı",
+        "aciklama": "Günlük İsimler: Sosyal Çalışmacı, Sosyal Hizmet Uzmanı\nÇözdüğü Sorunlar:\n- Gelir yetersizliği nedeniyle evi geçici olarak nereye götüreceğimi bilmiyorum.\n- Çocuklarımın okulla ilgili yaşadığı travmaları ve akademik desteği birleştirmem gerekiyor.\n- Aile bireyleri arasında bir anlaşmazlık var ve kimse birbirini dinlemiyor."
+    },
+    "meslek_ogrenci_kocu": {
+        "isim": "Öğrenci Koçu",
+        "aciklama": "Günlük İsimler: Eğitim Koçu, Çalışma Danışmanı, Akademik Danışman\nÇözdüğü Sorunlar:\n- Sınavlara hazırlanırken nasıl zaman yönetimi yapacağımı ve hangi sırayla çalışacağımı bilemiyorum.\n- Okul derslerine odaklanamıyor, sürekli dikkatim dağılıyor ve çok fazla erteleme yapıyorum.\n- Hangi üniversite bölümünü okuyacağımı veya ileride hangi mesleği seçeceğimi bilmiyorum, çok kararsızım."
+    },
+    "meslek_kariyer": {
+        "isim": "Kariyer",
+        "aciklama": "Günlük İsimler: Kariyer Danışmanı, İş Danışmanı, Meslek Rehberliği Uzmanı\nÇözdüğü Sorunlar:\n- Liseden mezun oldum, hangi bölümü okumam veya hangi mesleğe yönelmem gerektiği konusunda kararsızım.\n- Şu anki işimde çok sıkıldım ve kariyerimi tamamen farklı bir alana yönlendirmek istiyorum ama nereden başlayacağımı bilmiyorum.\n- CV'mi hazırlıyorum ama hangi becerileri vurgulayacağımı ve işverenlerin ne aradığını anlamıyorum."
+    },
+    "meslek_profesyonel_tasnma": {
+        "isim": "Profesyonel Taşınma",
+        "aciklama": "Günlük İsimler: Nakliyeci, Taşınma Firması, Nakliye Uzmanı\nÇözdüğü Sorunlar:\n- Yeni eve tüm mobilyaları merdivenlerden nasıl indireceğim ve yerleştireceğim?\n- Buzdolabını ve çamaşır makinesini tek başıma taşıyamayacağım.\n- Çok fazla eşyayla dolu bir depodan tek seferde nasıl çıkış yapacağım?"
+    },
+    "meslek_hurda": {
+        "isim": "Hurda",
+        "aciklama": "Günlük İsimler: Hurdacı, Hurda Adamı, Metal Toplayıcı\nÇözdüğü Sorunlar:\n- Eski buzdolabı, çamaşır makinesi gibi büyük beyaz eşyaları atmak zorundayım ama nereye götüreceğimi bilmiyorum.\n- İnşaat sonrası çıkan demir, metal boru ve tuğlaları imha etmem gerekiyor.\n- Artık kullanmadığımız büyük metal mobilyaları ve tesisat atıklarını nasıl bertaraf edeceğimi çözmem lazım."
+    },
+    "meslek_gumruk": {
+        "isim": "Gümrük",
+        "aciklama": "Günlük İsimler: Gümrük Müşavirliği, Sınır İşlemleri\nÇözdüğü Sorunlar:\n- Ülke dışından getirdiğimiz bir makinenin veya malzemenin gümrük vergisini ve vergilerini nasıl hesaplayacağımızı bilmiyoruz.\n- Göndereceğimiz ürünlerin mevzuata uygun olup olmadığını ve hangi sertifikaları taşıması gerektiğini öğrenmek istiyoruz.\n- Ticaret eşyamızın ne kadar sürede, hangi evraklar tamamlanarak sınır kapısından geçmesini sağlayacağız?"
+    },
+    "meslek_kurye_rota": {
+        "isim": "Kurye Rota",
+        "aciklama": "Günlük İsimler: Kurye, Teslimat Elemanı, Rota Planlayıcısı\nÇözdüğü Sorunlar:\n- Aynı gün içinde 50 farklı adrese en kısa ve en verimli güzergahı bulamıyoruz.\n- Farklı bölgelerde dağıtılacak paketleri tek bir rota üzerinde nasıl toplayacağız?\n- Trafik yoğunluğu, park yeri zorlukları ve aksaklıklar göz önüne alınarak teslimat zaman çizelgesini ayarlayamıyoruz."
+    },
+    "meslek_e-ticaret_paketleme": {
+        "isim": "E-Ticaret Paketleme",
+        "aciklama": "Günlük İsimler: Paketleme Personeli, Kargo Hazırlayıcısı\nÇözdüğü Sorunlar:\n- Kırılabilir elektronik eşyanın kargo sırasında zarar görmemesi gerekiyor.\n- Farklı boyutlardaki birden fazla ürünün tek bir kargo kutusuna düzenli yerleştirilmesi gerekiyor.\n- Ürünün içindeki tüm aksesuarların eksiksiz olduğunun teyit edilmesi ve kutuya eklenmesi gerekiyor."
+    }
+}
